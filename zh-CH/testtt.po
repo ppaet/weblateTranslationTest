@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-03-19 22:21+0800\n"
-"PO-Revision-Date: 2024-05-07 02:12+0000\n"
-"Last-Translator: Weblate Admin <admin@zeasn.com>\n"
+"PO-Revision-Date: 2024-05-07 03:24+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Chinese (Simplified) <http://weblate.example.com/projects/"
 "gittest/gittest/zh_CH/>\n"
 "Language: zh-CH\n"
@@ -219,10 +219,14 @@ msgid "ipv6 network not support update xray online, please manual donwload xray 
 msgstr "ipv6 网络不支持xray的在线更新, 请手动下载xray来更新!"
 
 msgid "download v2ray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l v2ray-linux-xx.zip' to update"
-msgstr "下载v2ray-linux-xx.zip包然后运行 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l v2ray-linux-xx.zip' 来更新"
+msgstr ""
+"下载v2ray-linux-xx.zip包然后运行 'bash <(curl -L -s https://multi.netlify."
+"app/go.sh) -l v2ray-linux-xx.zip' 来更新"
 
 msgid "download Xray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l Xray-linux-xx.zip -x' to update"
-msgstr "下载Xray-linux-xx.zip包然后运行 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l Xray-linux-xx.zip -x' 来更新"
+msgstr ""
+"下载Xray-linux-xx.zip包然后运行 'bash <(curl -L -s https://multi.netlify.app/"
+"go.sh) -l Xray-linux-xx.zip -x' 来更新"
 
 msgid "check v2ray no install, auto install v2ray.."
 msgstr "检测到本机没安装v2ray, 正在自动安装.."
@@ -355,7 +359,7 @@ msgid "only vmess protocol can modify alterId!"
 msgstr "只有vmess协议才能修改alterId!"
 
 msgid "modify dyn_port"
-msgstr "修改动态端口"
+msgstr "更改动态端口"
 
 msgid "dyn_port status"
 msgstr "当前组的动态端口状态"
@@ -373,7 +377,7 @@ msgid "close dyn_port success!"
 msgstr "成功关闭动态端口!"
 
 msgid "modify email"
-msgstr "修改email"
+msgstr "更改email"
 
 msgid "Socks5 don't support email!"
 msgstr "Socks5节点 不支持写入email!"
@@ -415,7 +419,7 @@ msgid "only vmess/VLESS protocol can modify uuid!"
 msgstr "只有vmess/VLESS协议才能修改uuid!"
 
 msgid "modify port"
-msgstr "修改port"
+msgstr "更改主端口"
 
 msgid "group port"
 msgstr "当前组的端口信息为"
@@ -427,7 +431,7 @@ msgid "port modify success!"
 msgstr "端口修改成功!"
 
 msgid "modify tcpFastOpen"
-msgstr "修改tcpFastOpen"
+msgstr "更改tcpFastOpen设置"
 
 msgid "V2ray MTProto/Shadowsocks don't support tcpFastOpen!!!"
 msgstr "V2ray MTProto/Shadowsocks协议不支持配置tcpFastOpen!!!"
@@ -489,10 +493,12 @@ msgid "local group is socks, please input user and password to create user"
 msgstr "当前组为socks组, 请输入用户密码创建新的socks用户"
 
 msgid "Mtproto protocol only support one user!!"
-msgstr "当前选择的组为MTProto协议, 该协议只支持同组的第一个用户生效, 所以没必要新增用户!"
+msgstr "当前选择的组为MTProto协议, 该协议只支持同组的第一个用户生效, "
+"所以没必要新增用户!"
 
 msgid "Shadowsocks protocol only support one user, u can add new port to multiple SS!"
-msgstr "当前选择的组为Shadowsocks协议, ss协议只支持一个用户一个端口, 想多用户请新增端口!"
+msgstr "当前选择的组为Shadowsocks协议, ss协议只支持一个用户一个端口, "
+"想多用户请新增端口!"
 
 msgid "del group info: "
 msgstr "你要删除的Group组所有节点信息: "
