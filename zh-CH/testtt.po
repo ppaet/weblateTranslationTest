@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-03-19 22:21+0800\n"
-"PO-Revision-Date: 2024-05-07 03:24+0000\n"
-"Last-Translator: Weblate Admin <admin@zeasn.com>\n"
+"PO-Revision-Date: 2024-05-07 10:31+0000\n"
+"Last-Translator: 15959409785 <rzy1147994141@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <http://weblate.example.com/projects/"
 "gittest/gittest/zh_CH/>\n"
 "Language: zh-CH\n"
@@ -169,7 +169,7 @@ msgid "Clean Xray Log"
 msgstr "清理xray日志"
 
 msgid "Change Language"
-msgstr "Switch to English"
+msgstr "修改语言"
 
 ### main.py end ###
 ### group.py start ###
