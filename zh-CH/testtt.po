@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-03-19 22:21+0800\n"
-"PO-Revision-Date: 2024-05-07 10:31+0000\n"
-"Last-Translator: 15959409785 <rzy1147994141@gmail.com>\n"
+"PO-Revision-Date: 2024-05-08 07:33+0000\n"
+"Last-Translator: Weblate Admin <admin@zeasn.com>\n"
 "Language-Team: Chinese (Simplified) <http://weblate.example.com/projects/"
 "gittest/gittest/zh_CH/>\n"
 "Language: zh-CH\n"
@@ -708,3 +708,6 @@ msgid "success open schedule update task!"
 msgstr "成功设置定时更新任务!"
 
 ### update_timer.py end ###
+
+msgid "ppaet"
+msgstr "扮猪吃老虎"
