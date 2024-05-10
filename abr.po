@@ -1,0 +1,705 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-03-19 22:21+0800\n"
+"PO-Revision-Date: 2024-05-08 07:33+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: abr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.4.3\n"
+"Generated-By: pygettext.py 1.5\n"
+
+### 通用翻译 start ###
+msgid "please select: "
+msgstr ""
+
+msgid "input error, please input again"
+msgstr ""
+
+msgid "input error, please check is number"
+msgstr ""
+
+msgid "input error!"
+msgstr ""
+
+msgid "modify success!"
+msgstr ""
+
+### 通用翻译 end ###
+### main.py start ###
+msgid "Welcome to v2ray manager"
+msgstr ""
+
+msgid "Welcome to xray manager"
+msgstr ""
+
+msgid "1.V2ray Manage"
+msgstr ""
+
+msgid "1.Xray Manage"
+msgstr ""
+
+msgid "2.Group Manage"
+msgstr ""
+
+msgid "3.Modify Config"
+msgstr ""
+
+msgid "4.Check Config"
+msgstr ""
+
+msgid "5.Global Setting"
+msgstr ""
+
+msgid "6.Update V2ray"
+msgstr ""
+
+msgid "6.Update Xray"
+msgstr ""
+
+msgid "7.Generate Client Json"
+msgstr ""
+
+msgid "start v2ray"
+msgstr ""
+
+msgid "start xray"
+msgstr ""
+
+msgid "stop v2ray"
+msgstr ""
+
+msgid "stop xray"
+msgstr ""
+
+msgid "restart v2ray"
+msgstr ""
+
+msgid "restart xray"
+msgstr ""
+
+msgid "v2ray status"
+msgstr ""
+
+msgid "xray status"
+msgstr ""
+
+msgid "v2ray log"
+msgstr ""
+
+msgid "xray log"
+msgstr ""
+
+msgid "add user"
+msgstr ""
+
+msgid "add port"
+msgstr ""
+
+msgid "del user"
+msgstr ""
+
+msgid "del port"
+msgstr ""
+
+msgid "modify email"
+msgstr ""
+
+msgid "modify UUID"
+msgstr ""
+
+msgid "modify alterID"
+msgstr ""
+
+msgid "modify port"
+msgstr ""
+
+msgid "modify stream"
+msgstr ""
+
+msgid "modify tls"
+msgstr ""
+
+msgid "modify tcpFastOpen"
+msgstr ""
+
+msgid "modify dyn_port"
+msgstr ""
+
+msgid "modify shadowsocks method"
+msgstr ""
+
+msgid "modify shadowsocks password"
+msgstr ""
+
+msgid "CDN mode(need domain)"
+msgstr ""
+
+msgid "V2ray Traffic Statistics"
+msgstr ""
+
+msgid "Xray Traffic Statistics"
+msgstr ""
+
+msgid "Iptables Traffic Statistics"
+msgstr ""
+
+msgid "Ban Bittorrent"
+msgstr ""
+
+msgid "Schedule Update V2ray"
+msgstr ""
+
+msgid "Schedule Update Xray"
+msgstr ""
+
+msgid "Clean V2ray Log"
+msgstr ""
+
+msgid "Clean Xray Log"
+msgstr ""
+
+msgid "Change Language"
+msgstr ""
+
+### main.py end ###
+### group.py start ###
+msgid "HTTPS Socks5 don't support telegram share link"
+msgstr ""
+
+### group.py end ###
+### profile.py start ###
+msgid "Tip: The same group's node protocol, port, tls are the same."
+msgstr ""
+
+### profile.py end ###
+### selector.py start ###
+msgid "del"
+msgstr ""
+
+msgid "last node can't delete!!!"
+msgstr ""
+
+msgid "please input number to"
+msgstr ""
+
+msgid "last group can't delete!!!"
+msgstr ""
+
+msgid "please input group to"
+msgstr ""
+
+msgid "input error, please check group"
+msgstr ""
+
+msgid "exist"
+msgstr ""
+
+### selector.py end ###
+### v2ray.py start ###
+msgid "clean v2ray log success!"
+msgstr ""
+
+msgid "clean xray log success!"
+msgstr ""
+
+msgid "ipv6 network not support update v2ray online, please manual donwload v2ray to update!"
+msgstr ""
+
+msgid "ipv6 network not support update xray online, please manual donwload xray to update!"
+msgstr ""
+
+msgid "download v2ray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l v2ray-linux-xx.zip' to update"
+msgstr ""
+
+msgid "download Xray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l Xray-linux-xx.zip -x' to update"
+msgstr ""
+
+msgid "check v2ray no install, auto install v2ray.."
+msgstr ""
+
+msgid "check xray no install, auto install xray.."
+msgstr ""
+
+### v2ray.py end ###
+### writer.py start ###
+msgid "close tls will also close HTTP/2!"
+msgstr ""
+
+msgid "already reset protocol to origin kcp"
+msgstr ""
+
+msgid "add port group success!"
+msgstr ""
+
+msgid "add socks5 user success!"
+msgstr ""
+
+msgid "add trojan user success!"
+msgstr ""
+
+msgid "add user success!"
+msgstr ""
+
+msgid "del user success!"
+msgstr ""
+
+msgid "del port success!"
+msgstr ""
+
+### writer.py end ###
+### ban_bt.py start ###
+msgid "Ban BT status"
+msgstr ""
+
+msgid "Ban BT?(y/n): "
+msgstr ""
+
+### ban_bt.py end ###
+### iptables_ctr.py start ###
+msgid "Iptables Port Traffic Statistics"
+msgstr ""
+
+msgid "1.check statistics result"
+msgstr ""
+
+msgid "2.reset special port statistics"
+msgstr ""
+
+msgid "please input reset port:"
+msgstr ""
+
+msgid "reset success!"
+msgstr ""
+
+### iptables_ctr.py end ###
+### stats_ctr.py start ###
+msgid "no data traffic now!"
+msgstr ""
+
+msgid "V2ray Traffic Statistics Status"
+msgstr ""
+
+msgid "Xray Traffic Statistics Status"
+msgstr ""
+
+msgid "1.open statistics"
+msgstr ""
+
+msgid "2.close statistics"
+msgstr ""
+
+msgid "3.check user statistics result"
+msgstr ""
+
+msgid "4.check group statistics result"
+msgstr ""
+
+msgid "5.reset statistics"
+msgstr ""
+
+msgid "tip: restart v2ray will reset traffic statistics!!!"
+msgstr ""
+
+msgid "tip: restart xray will reset traffic statistics!!!"
+msgstr ""
+
+msgid "open traffic statistics will close schedule update v2ray, continue?(y/n): "
+msgstr ""
+
+msgid "open traffic statistics will close schedule update xray, continue?(y/n): "
+msgstr ""
+
+msgid "undo open traffic statistics!!"
+msgstr ""
+
+msgid "open traffic statistics success!"
+msgstr ""
+
+msgid "close traffic statistics success!"
+msgstr ""
+
+msgid "only open traffic statistics to operate"
+msgstr ""
+
+msgid "please input number or group alphabet to reset: "
+msgstr ""
+
+msgid "no effective email!!!"
+msgstr ""
+
+### stats_ctr.py end ###
+### base.py start ###
+msgid "modify alterId"
+msgstr ""
+
+msgid "node alterID"
+msgstr ""
+
+msgid "please input new alterId: "
+msgstr ""
+
+msgid "alterId modify success!"
+msgstr ""
+
+msgid "only vmess protocol can modify alterId!"
+msgstr ""
+
+msgid "modify dyn_port"
+msgstr ""
+
+msgid "dyn_port status"
+msgstr ""
+
+msgid "open/close dyn_port(y/n): "
+msgstr ""
+
+msgid "please input dyn_port alterID(default 32): "
+msgstr ""
+
+msgid "open dyn_port success!"
+msgstr ""
+
+msgid "close dyn_port success!"
+msgstr ""
+
+msgid "modify email"
+msgstr ""
+
+msgid "Socks5 don't support email!"
+msgstr ""
+
+msgid "node email"
+msgstr ""
+
+msgid "please input new email: "
+msgstr ""
+
+msgid "not email, please input again"
+msgstr ""
+
+msgid "have same email, please input other"
+msgstr ""
+
+msgid "modify email success!"
+msgstr ""
+
+msgid "modify uuid"
+msgstr ""
+
+msgid "node UUID"
+msgstr ""
+
+msgid "get new UUID?(y/n): "
+msgstr ""
+
+msgid "new UUID"
+msgstr ""
+
+msgid "UUID modify success!"
+msgstr ""
+
+msgid "undo modify"
+msgstr ""
+
+msgid "only vmess/VLESS protocol can modify uuid!"
+msgstr ""
+
+msgid "modify port"
+msgstr ""
+
+msgid "group port"
+msgstr ""
+
+msgid "please input new port(support range port(use '-' as separator), all range port can effect):"
+msgstr ""
+
+msgid "port modify success!"
+msgstr ""
+
+msgid "modify tcpFastOpen"
+msgstr ""
+
+msgid "V2ray MTProto/Shadowsocks don't support tcpFastOpen!!!"
+msgstr ""
+
+msgid "Xray MTProto/Shadowsocks don't support tcpFastOpen!!!"
+msgstr ""
+
+msgid "group tcpFastOpen"
+msgstr ""
+
+msgid "1.open TFO(force open)"
+msgstr ""
+
+msgid "2.close TFO(force close)"
+msgstr ""
+
+msgid "3.delete TFO(use system default profile)"
+msgstr ""
+
+### base.py end ###
+### multiple.py start ###
+msgid "input error! input -h or --help to get help"
+msgstr ""
+
+msgid "please input socks user: "
+msgstr ""
+
+msgid "please input socks password: "
+msgstr ""
+
+msgid "socks user or password is null!!"
+msgstr ""
+
+msgid "random generate (srtp | wechat-video | utp | dtls) fake header, new protocol"
+msgstr ""
+
+msgid "random generate port"
+msgstr ""
+
+msgid "enter to use, or input customize port"
+msgstr ""
+
+msgid "port is use, please input other port!"
+msgstr ""
+
+msgid "new port"
+msgstr ""
+
+msgid "add user"
+msgstr ""
+
+msgid "create random email:"
+msgstr ""
+
+msgid ", enter to use it or input new email: "
+msgstr ""
+
+msgid "local group is socks, please input user and password to create user"
+msgstr ""
+
+msgid "Mtproto protocol only support one user!!"
+msgstr ""
+
+msgid "Shadowsocks protocol only support one user, u can add new port to multiple SS!"
+msgstr ""
+
+msgid "del group info: "
+msgstr ""
+
+msgid "delete?(y/n): "
+msgstr ""
+
+msgid "undo delete"
+msgstr ""
+
+msgid "del user info:"
+msgstr ""
+
+msgid "create random trojan user password:"
+msgstr ""
+
+msgid ", enter to use or input new password: "
+msgstr ""
+
+### multiple.py end ###
+### ss.py start ###
+msgid "please select shadowsocks method:"
+msgstr ""
+
+msgid "input out of range!!"
+msgstr ""
+
+msgid "random generate password"
+msgstr ""
+
+msgid "enter to use, or input customize password: "
+msgstr ""
+
+msgid "modify SS"
+msgstr ""
+
+msgid "local group not Shadowsocks protocol!"
+msgstr ""
+
+msgid "modify Shadowsocks"
+msgstr ""
+
+msgid "success"
+msgstr ""
+
+### ss.py end ###
+### stream.py start ###
+msgid "please input fake domain: "
+msgstr ""
+
+msgid "please select ss method: "
+msgstr ""
+
+msgid "please input reality serverName(domain): "
+msgstr ""
+
+msgid "open xray grpc multiMode?(y/n): "
+msgstr ""
+
+msgid "please select fake header: "
+msgstr ""
+
+msgid "modify protocol"
+msgstr ""
+
+msgid "group protocol"
+msgstr ""
+
+msgid "please select new protocol: "
+msgstr ""
+
+msgid "please input number!"
+msgstr ""
+
+msgid "V2ray MTProto/Shadowsocks not support https, close tls success!"
+msgstr ""
+
+msgid "Xray MTProto/Shadowsocks not support https, close tls success!"
+msgstr ""
+
+msgid "modify protocol success"
+msgstr ""
+
+msgid "auto switch 443 port.."
+msgstr ""
+
+### stream.py end ###
+### tls.py start ###
+msgid "1. Let's Encrypt certificate"
+msgstr ""
+
+msgid "2. ZeroSSL certificate"
+msgstr ""
+
+msgid "3. BuyPass certificate"
+msgstr ""
+
+msgid "4. Customize certificate file path"
+msgstr ""
+
+msgid "local vps ip address: "
+msgstr ""
+
+msgid "please input your vps domain: "
+msgstr ""
+
+msgid "domain check error!!!"
+msgstr ""
+
+msgid "domain can't analysis to local ip!!!"
+msgstr ""
+
+msgid "please input your email to apply for a certificate: "
+msgstr ""
+
+msgid "not valid email, please input again!"
+msgstr ""
+
+msgid "auto generate SSL certificate, please wait.."
+msgstr ""
+
+msgid "please input certificate cert file path: "
+msgstr ""
+
+msgid "please input certificate key file path: "
+msgstr ""
+
+msgid "certificate cert or key not exist!"
+msgstr ""
+
+msgid "please input the certificate cert file domain: "
+msgstr ""
+
+msgid "domain is null!"
+msgstr ""
+
+msgid "group tls status"
+msgstr ""
+
+msgid "1.open TLS"
+msgstr ""
+
+msgid "2.close TLS"
+msgstr ""
+
+msgid "MTProto/Shadowsocks protocol not support https!!!"
+msgstr ""
+
+### tls.py end ###
+### cdn.py start ###
+msgid "modify cdn"
+msgstr ""
+
+msgid "please input run cdn mode domain: "
+msgstr ""
+
+msgid "domain is empty!"
+msgstr ""
+
+msgid "this group domain {}, enter to use it or input other domain: "
+msgstr ""
+
+msgid "must be close cdn proxy!"
+msgstr ""
+
+msgid "please select https port to cdn: "
+msgstr ""
+
+msgid "please select protocol to cdn: "
+msgstr ""
+
+### update_timer.py start ###
+msgid "open"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "schedule update v2ray task"
+msgstr ""
+
+msgid "schedule update xray task"
+msgstr ""
+
+msgid "1.open schedule task"
+msgstr ""
+
+msgid "2.close schedule task"
+msgstr ""
+
+msgid "Tip: open schedule update v2ray at 3:00"
+msgstr ""
+
+msgid "Tip: open schedule update xray at 3:00"
+msgstr ""
+
+msgid "have open schedule!"
+msgstr ""
+
+msgid "close shedule task success"
+msgstr ""
+
+msgid "Beijing time: 3, VPS time"
+msgstr ""
+
+msgid "success open schedule update task!"
+msgstr ""
+
+### update_timer.py end ###
+msgid "ppaet"
+msgstr ""
