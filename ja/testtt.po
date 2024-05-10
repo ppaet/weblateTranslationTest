@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-03-19 22:21+0800\n"
-"PO-Revision-Date: 2024-05-08 07:33+0000\n"
+"PO-Revision-Date: 2024-05-11 03:00+0000\n"
 "Last-Translator: Weblate Admin <admin@zeasn.com>\n"
 "Language-Team: Japanese <http://weblate.example.com/projects/gittest/gittest/"
 "ja/>\n"
@@ -714,6 +714,5 @@ msgid "success open schedule update task!"
 msgstr "成功オープンスケジュール更新タスク!"
 
 ### update_timer.py end ###
-
 msgid "ppaet"
-msgstr ""
+msgstr "Ppaet"
