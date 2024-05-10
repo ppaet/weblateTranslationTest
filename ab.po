@@ -6,9 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2019-03-19 22:21+0800\n"
-"PO-Revision-Date: 2024-05-08 07:33+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-05-10 03:10+0000\n"
+"Last-Translator: Alibaba <noreply-mt-alibaba@weblate.org>\n"
+"Language-Team: Abkhazian <http://weblate.example.com/projects/test/test/ab/>"
+"\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf8\n"
@@ -19,114 +20,114 @@ msgstr ""
 
 ### 通用翻译 start ###
 msgid "please select: "
-msgstr ""
+msgstr "Шәааи: "
 
 msgid "input error, please input again"
-msgstr ""
+msgstr "Аҩсҭаа амҩақәа, аҿагылара ааигәы ашәы"
 
 msgid "input error, please check is number"
-msgstr ""
+msgstr "Аҩсҭаа амҩақәа, шәара шәара шәара ибарак"
 
 msgid "input error!"
-msgstr ""
+msgstr "Аҩбатәба!"
 
 msgid "modify success!"
-msgstr ""
+msgstr "Уи аиашьақәа!"
 
 ### 通用翻译 end ###
 ### main.py start ###
 msgid "Welcome to v2ray manager"
-msgstr ""
+msgstr "V2ray уадаҩа амаҵзураз"
 
 msgid "Welcome to xray manager"
-msgstr ""
+msgstr "Иҟало иҳамҩа амаҵзура"
 
 msgid "1.V2ray Manage"
-msgstr ""
+msgstr "1.V2ray манараг"
 
 msgid "1.Xray Manage"
-msgstr ""
+msgstr "1.Xray Manaна"
 
 msgid "2.Group Manage"
-msgstr ""
+msgstr "2. Ауап"
 
 msgid "3.Modify Config"
-msgstr ""
+msgstr "3. Уиҳара аамҭат"
 
 msgid "4.Check Config"
-msgstr ""
+msgstr "Уиҳара амҩақәиа"
 
 msgid "5.Global Setting"
-msgstr ""
+msgstr "5. Гласназ"
 
 msgid "6.Update V2ray"
-msgstr ""
+msgstr "6.Update V2ray"
 
 msgid "6.Update Xray"
-msgstr ""
+msgstr "6.Update Xray"
 
 msgid "7.Generate Client Json"
-msgstr ""
+msgstr "7. Клиент JSon"
 
 msgid "start v2ray"
-msgstr ""
+msgstr "Амца"
 
 msgid "start xray"
-msgstr ""
+msgstr "Амҭа xray"
 
 msgid "stop v2ray"
-msgstr ""
+msgstr "Аҵы v2ray"
 
 msgid "stop xray"
-msgstr ""
+msgstr "Аммо xray"
 
 msgid "restart v2ray"
-msgstr ""
+msgstr "V2ray амша"
 
 msgid "restart xray"
-msgstr ""
+msgstr "Xray амша"
 
 msgid "v2ray status"
-msgstr ""
+msgstr "V2ray аз"
 
 msgid "xray status"
-msgstr ""
+msgstr "Xray штат"
 
 msgid "v2ray log"
-msgstr ""
+msgstr "V2ray рего"
 
 msgid "xray log"
-msgstr ""
+msgstr "Xray регулак"
 
 msgid "add user"
 msgstr ""
 
 msgid "add port"
-msgstr ""
+msgstr "Иҭыҷа"
 
 msgid "del user"
-msgstr ""
+msgstr "Del user"
 
 msgid "del port"
-msgstr ""
+msgstr "Del port."
 
 msgid "modify email"
 msgstr ""
 
 msgid "modify UUID"
-msgstr ""
+msgstr "UUID / и / / / / / / / / / / / / / / / / / / /"
 
 msgid "modify alterID"
-msgstr ""
+msgstr "Уи аиашьа"
 
 msgid "modify port"
 msgstr ""
 
 msgid "modify stream"
-msgstr ""
+msgstr "Аҳамҭа иҳазшот"
 
 msgid "modify tls"
-msgstr ""
+msgstr "Аҽаԥышәа"
 
 msgid "modify tcpFastOpen"
 msgstr ""
@@ -135,571 +136,575 @@ msgid "modify dyn_port"
 msgstr ""
 
 msgid "modify shadowsocks method"
-msgstr ""
+msgstr "Аиашьа"
 
 msgid "modify shadowsocks password"
-msgstr ""
+msgstr "Аиашьа"
 
 msgid "CDN mode(need domain)"
-msgstr ""
+msgstr "CDN режимы"
 
 msgid "V2ray Traffic Statistics"
-msgstr ""
+msgstr "V2ray Трафикас статистикак"
 
 msgid "Xray Traffic Statistics"
-msgstr ""
+msgstr "Xray трафика статистикак"
 
 msgid "Iptables Traffic Statistics"
-msgstr ""
+msgstr "Иптафис статистикак"
 
 msgid "Ban Bittorrent"
-msgstr ""
+msgstr "Абитторрент"
 
 msgid "Schedule Update V2ray"
-msgstr ""
+msgstr "Ажәамкаа ашьҭахь V2ray"
 
 msgid "Schedule Update Xray"
-msgstr ""
+msgstr "Ажәамҭа ашьҭахь"
 
 msgid "Clean V2ray Log"
-msgstr ""
+msgstr "V2ray рего"
 
 msgid "Clean Xray Log"
-msgstr ""
+msgstr "Аҩс-Крага"
 
 msgid "Change Language"
-msgstr ""
+msgstr "Аҩсҭааҿы аилкаа"
 
 ### main.py end ###
 ### group.py start ###
 msgid "HTTPS Socks5 don't support telegram share link"
-msgstr ""
+msgstr "HTTPS Socks5"
 
 ### group.py end ###
 ### profile.py start ###
 msgid "Tip: The same group's node protocol, port, tls are the same."
-msgstr ""
+msgstr "Ауаа: Уи ашьақәа ашьҭахь протокол, форм, тл."
 
 ### profile.py end ###
 ### selector.py start ###
 msgid "del"
-msgstr ""
+msgstr "Del"
 
 msgid "last node can't delete!!!"
-msgstr ""
+msgstr "Аҵыхәтәа ашьҭахь!"
 
 msgid "please input number to"
-msgstr ""
+msgstr "Шәара шәара иҳалацәажәа"
 
 msgid "last group can't delete!!!"
-msgstr ""
+msgstr "Аҵыхәтәа ашьақәа рҟынӡам!!!"
 
 msgid "please input group to"
-msgstr ""
+msgstr "Шәазҭап ашьа"
 
 msgid "input error, please check group"
-msgstr ""
+msgstr "Аҩсҭаа амҩақәиа"
 
 msgid "exist"
-msgstr ""
+msgstr "Иҳамҩа иҳамҭат"
 
 ### selector.py end ###
 ### v2ray.py start ###
 msgid "clean v2ray log success!"
-msgstr ""
+msgstr "Аиашьа"
 
 msgid "clean xray log success!"
-msgstr ""
+msgstr "Аҽеимцә"
 
 msgid "ipv6 network not support update v2ray online, please manual donwload v2ray to update!"
-msgstr ""
+msgstr "Ipv6 амҩақәа иҳамҭа аиашьа"
 
 msgid "ipv6 network not support update xray online, please manual donwload xray to update!"
-msgstr ""
+msgstr "Ipv6 амҩақәа амҩақәа амҩақәа амҩақәа иҳамшом."
 
 msgid "download v2ray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l v2ray-linux-xx.zip' to update"
 msgstr ""
+"Аҳхом v2ray-linux-xx. Абип, аҵыхәтәа, аҵәҟьа Аҩсҭаа. Апп. -l v2ray-linux-xx. "
+"«озп» раз"
 
 msgid "download Xray-linux-xx.zip and run 'bash <(curl -L -s https://multi.netlify.app/go.sh) -l Xray-linux-xx.zip -x' to update"
 msgstr ""
+"Аҳамҭак Xray-linux-xx. Абип, аҵыхәтәа, аҵәҟьа Аҩсҭаа. Апп. -l Xray-linux-xx. "
+"Zip -x' ашьҭахь"
 
 msgid "check v2ray no install, auto install v2ray.."
-msgstr ""
+msgstr "V2ray азымшам."
 
 msgid "check xray no install, auto install xray.."
-msgstr ""
+msgstr "Xray- ашьақь"
 
 ### v2ray.py end ###
 ### writer.py start ###
 msgid "close tls will also close HTTP/2!"
-msgstr ""
+msgstr "Иара убас иҳаны HTTP/2!"
 
 msgid "already reset protocol to origin kcp"
-msgstr ""
+msgstr "Иҳамҭак протоколт"
 
 msgid "add port group success!"
-msgstr ""
+msgstr "Уи аилкаара иҳарак!"
 
 msgid "add socks5 user success!"
-msgstr ""
+msgstr "Аҩсҭаа 5 - и иҽеим!"
 
 msgid "add trojan user success!"
-msgstr ""
+msgstr "Аҩсҭаа рориа рыҩныҵҟа!"
 
 msgid "add user success!"
-msgstr ""
+msgstr "Аҩсҭаа иҽеим!"
 
 msgid "del user success!"
-msgstr ""
+msgstr "Del ашьҭахь!"
 
 msgid "del port success!"
-msgstr ""
+msgstr "Del port аҟара!"
 
 ### writer.py end ###
 ### ban_bt.py start ###
 msgid "Ban BT status"
-msgstr ""
+msgstr "Аҩсҭаам"
 
 msgid "Ban BT?(y/n): "
-msgstr ""
+msgstr "Аҩбатәба БT? (y/n): "
 
 ### ban_bt.py end ###
 ### iptables_ctr.py start ###
 msgid "Iptables Port Traffic Statistics"
-msgstr ""
+msgstr "Иptables Port Трафик статистикак"
 
 msgid "1.check statistics result"
-msgstr ""
+msgstr "1. аҵакыс статистикак"
 
 msgid "2.reset special port statistics"
-msgstr ""
+msgstr "2. реset ашьҭахь апрт статистика"
 
 msgid "please input reset port:"
-msgstr ""
+msgstr "Шәааи аамҭа ашьҭахь:"
 
 msgid "reset success!"
-msgstr ""
+msgstr "Иара убас!"
 
 ### iptables_ctr.py end ###
 ### stats_ctr.py start ###
 msgid "no data traffic now!"
-msgstr ""
+msgstr "Ҳәарада, насгьы ишәымҭак!"
 
 msgid "V2ray Traffic Statistics Status"
-msgstr ""
+msgstr "V2ray Трафикас статистикас"
 
 msgid "Xray Traffic Statistics Status"
-msgstr ""
+msgstr "Xray Трафицик статистикас"
 
 msgid "1.open statistics"
-msgstr ""
+msgstr "1.open статистикак"
 
 msgid "2.close statistics"
-msgstr ""
+msgstr "2.clo статистикак"
 
 msgid "3.check user statistics result"
-msgstr ""
+msgstr "3. Аҩсҭаа статистика амҩақәа"
 
 msgid "4.check group statistics result"
-msgstr ""
+msgstr "Уи аиашақәа"
 
 msgid "5.reset statistics"
-msgstr ""
+msgstr "5. реset статистика"
 
 msgid "tip: restart v2ray will reset traffic statistics!!!"
-msgstr ""
+msgstr "Аҳамҭа: ашьҭахь v2ray аус статистикақәа еилаҳкаауеит!!"
 
 msgid "tip: restart xray will reset traffic statistics!!!"
-msgstr ""
+msgstr "Аҳамҭа: аҿагылазаашьа"
 
 msgid "open traffic statistics will close schedule update v2ray, continue?(y/n): "
-msgstr ""
+msgstr "Аҩсҭаа статистика амҩақәа ашьҭахь "
 
 msgid "open traffic statistics will close schedule update xray, continue?(y/n): "
-msgstr ""
+msgstr "Аҩсҭаа статистика амҩақәа ашьҭахь "
 
 msgid "undo open traffic statistics!!"
-msgstr ""
+msgstr "Уи иҳаиҭра статистикала!"
 
 msgid "open traffic statistics success!"
-msgstr ""
+msgstr "Уи аҵыхәтәантәи статистика аҟаҵара!"
 
 msgid "close traffic statistics success!"
-msgstr ""
+msgstr "Уи аиашаҵәҟьа статистика аҟаҵара!"
 
 msgid "only open traffic statistics to operate"
-msgstr ""
+msgstr "Аҩсҭаа ашьҭахь"
 
 msgid "please input number or group alphabet to reset: "
-msgstr ""
+msgstr "Уи иҭыҵәҟьаны, мамзаргьы азфафет: "
 
 msgid "no effective email!!!"
-msgstr ""
+msgstr "Еил - ласны иҳамҭак!"
 
 ### stats_ctr.py end ###
 ### base.py start ###
 msgid "modify alterId"
-msgstr ""
+msgstr "Уи иҽаԥашьа"
 
 msgid "node alterID"
-msgstr ""
+msgstr "Node ChangID"
 
 msgid "please input new alterId: "
-msgstr ""
+msgstr "Шәааи иҿыц: "
 
 msgid "alterId modify success!"
-msgstr ""
+msgstr "Уи аилкаара иԥсахра!"
 
 msgid "only vmess protocol can modify alterId!"
-msgstr ""
+msgstr "Аиашьақәа ашьҭахь иқәшаҳарԥшуеит."
 
 msgid "modify dyn_port"
-msgstr ""
+msgstr "Иҳазгәр"
 
 msgid "dyn_port status"
-msgstr ""
+msgstr "Иқь"
 
 msgid "open/close dyn_port(y/n): "
-msgstr ""
+msgstr "Уи ашьақ "
 
 msgid "please input dyn_port alterID(default 32): "
-msgstr ""
+msgstr "Ишәгәалаш инput dyn_port alterID(напалбаа 32): "
 
 msgid "open dyn_port success!"
-msgstr ""
+msgstr "Аҩсҭаа ашьҭахь"
 
 msgid "close dyn_port success!"
-msgstr ""
+msgstr "Уи аиашьа"
 
 msgid "modify email"
-msgstr ""
+msgstr "/Иашьа"
 
 msgid "Socks5 don't support email!"
-msgstr ""
+msgstr "Сокк 5 иe-ta иҳамҭам!"
 
 msgid "node email"
-msgstr ""
+msgstr "Иқь"
 
 msgid "please input new email: "
-msgstr ""
+msgstr "Шәааи иҿыц: "
 
 msgid "not email, please input again"
-msgstr ""
+msgstr "Иe-mail-гом, шәара аҳәыцә"
 
 msgid "have same email, please input other"
-msgstr ""
+msgstr "Уи иҭыҵәы, аҵабырг"
 
 msgid "modify email success!"
-msgstr ""
+msgstr "Еилкаара иҳахәҭоу!"
 
 msgid "modify uuid"
-msgstr ""
+msgstr "/Уuid / / / / / / / / / / / / / / / / / / / /"
 
 msgid "node UUID"
-msgstr ""
+msgstr "Node UUID"
 
 msgid "get new UUID?(y/n): "
-msgstr ""
+msgstr "(Y/n): "
 
 msgid "new UUID"
-msgstr ""
+msgstr "Ҿыцк UUID"
 
 msgid "UUID modify success!"
-msgstr ""
+msgstr "Уи аиашьақәа аиашьақәа!"
 
 msgid "undo modify"
-msgstr ""
+msgstr "Иҳамшодот"
 
 msgid "only vmess/VLESS protocol can modify uuid!"
-msgstr ""
+msgstr "Уи мамзаргьы vmess/VLESS протокол иҽшаҳарзашо!"
 
 msgid "modify port"
-msgstr ""
+msgstr "Аҽаԥашьа"
 
 msgid "group port"
-msgstr ""
+msgstr "Ашашам аб"
 
 msgid "please input new port(support range port(use '-' as separator), all range port can effect):"
-msgstr ""
+msgstr "Шәара шәара ҿыц ашьақәа"
 
 msgid "port modify success!"
-msgstr ""
+msgstr "Аусқәа рҟынтә!"
 
 msgid "modify tcpFastOpen"
-msgstr ""
+msgstr "/Ин / / / / /"
 
 msgid "V2ray MTProto/Shadowsocks don't support tcpFastOpen!!!"
-msgstr ""
+msgstr "V2ray MTProto/Shadowsocks мҩаԥхом tcpFastOpen!!!"
 
 msgid "Xray MTProto/Shadowsocks don't support tcpFastOpen!!!"
-msgstr ""
+msgstr "Xray MTProto/Shadowsocks мҩаԥхом tcpFastOpen!!!"
 
 msgid "group tcpFastOpen"
-msgstr ""
+msgstr "Қасам tcpFastOpenName"
 
 msgid "1.open TFO(force open)"
-msgstr ""
+msgstr "1. open TFO"
 
 msgid "2.close TFO(force close)"
-msgstr ""
+msgstr "2. аплеи TFO( ашьҭахь)"
 
 msgid "3.delete TFO(use system default profile)"
-msgstr ""
+msgstr "3. аҽыдырхәац TFO( ашьаҵәҟьақәа ашьҭахь профиль)"
 
 ### base.py end ###
 ### multiple.py start ###
 msgid "input error! input -h or --help to get help"
-msgstr ""
+msgstr "Аҩбатәба! Ацәгьа -h ма --help"
 
 msgid "please input socks user: "
-msgstr ""
+msgstr "Шәааи ашьақәа: "
 
 msgid "please input socks password: "
-msgstr ""
+msgstr "Шәазҭап ашьақәа: "
 
 msgid "socks user or password is null!!"
-msgstr ""
+msgstr "Аҩсҭаа, мамзариа мҩақәа, мамзаргьы иҳамоу!"
 
 msgid "random generate (srtp | wechat-video | utp | dtls) fake header, new protocol"
-msgstr ""
+msgstr "Аиашьа"
 
 msgid "random generate port"
-msgstr ""
+msgstr "Аиашьа"
 
 msgid "enter to use, or input customize port"
-msgstr ""
+msgstr "Аҩсҭаа ашьа"
 
 msgid "port is use, please input other port!"
-msgstr ""
+msgstr "Иаҳҳәап, насгьы еилаҳкаа!"
 
 msgid "new port"
-msgstr ""
+msgstr "Ҿыцк"
 
 msgid "add user"
-msgstr ""
+msgstr "Иҭыҷа"
 
 msgid "create random email:"
-msgstr ""
+msgstr "Аиашамҭа ашьҭахь:"
 
 msgid ", enter to use it or input new email: "
-msgstr ""
+msgstr ", Уи иҿыԥшны, мамзаргьы: "
 
 msgid "local group is socks, please input user and password to create user"
-msgstr ""
+msgstr "Аиашьафак ашьақәа амаҵк, аҵабырг ашьақәа ашьа"
 
 msgid "Mtproto protocol only support one user!!"
-msgstr ""
+msgstr "Mtproto протокол аҵабырг иқәныҟәо!"
 
 msgid "Shadowsocks protocol only support one user, u can add new port to multiple SS!"
-msgstr ""
+msgstr "Уи иҳамҭақәа рҟынтә иқәныҟәара иҳацхраауеит, аҟара иҿыц SS рҿы!"
 
 msgid "del group info: "
-msgstr ""
+msgstr "Del group info: "
 
 msgid "delete?(y/n): "
-msgstr ""
+msgstr "(А/н): "
 
 msgid "undo delete"
-msgstr ""
+msgstr "Иҳамҭа аамҭат"
 
 msgid "del user info:"
-msgstr ""
+msgstr "Del user ақалак:"
 
 msgid "create random trojan user password:"
-msgstr ""
+msgstr "Аҳамҭақәа рҟынтә ацәгьа"
 
 msgid ", enter to use or input new password: "
-msgstr ""
+msgstr ", Иҿыц ашьҭахь ашьҭахь: "
 
 ### multiple.py end ###
 ### ss.py start ###
 msgid "please select shadowsocks method:"
-msgstr ""
+msgstr "Шәааи аилкаара ашьақәа:"
 
 msgid "input out of range!!"
-msgstr ""
+msgstr "Аҩсҭаа амҩақәа!"
 
 msgid "random generate password"
-msgstr ""
+msgstr "Аҩсҭаа ашьа"
 
 msgid "enter to use, or input customize password: "
-msgstr ""
+msgstr "Уи аиашаҵәҟьаны, мамзаргьы ашьҭахь аҳасҭа: "
 
 msgid "modify SS"
-msgstr ""
+msgstr "СС- дшазт"
 
 msgid "local group not Shadowsocks protocol!"
-msgstr ""
+msgstr "00: 00: 00: 00: 00: 00: 00: 00:"
 
 msgid "modify Shadowsocks"
-msgstr ""
+msgstr "Аҳамҭакқәа иԥашьа"
 
 msgid "success"
-msgstr ""
+msgstr "Аҟалара"
 
 ### ss.py end ###
 ### stream.py start ###
 msgid "please input fake domain: "
-msgstr ""
+msgstr "Шәааи ашьақәа: "
 
 msgid "please select ss method: "
-msgstr ""
+msgstr "Шәааи м. "
 
 msgid "please input reality serverName(domain): "
-msgstr ""
+msgstr "Ишәгәалак реалит сервер: "
 
 msgid "open xray grpc multiMode?(y/n): "
-msgstr ""
+msgstr "(Y/n): "
 
 msgid "please select fake header: "
-msgstr ""
+msgstr "Шәааи аилкаара иҭыцуа: "
 
 msgid "modify protocol"
-msgstr ""
+msgstr "/Иашьа"
 
 msgid "group protocol"
-msgstr ""
+msgstr "Ашьба протоколт"
 
 msgid "please select new protocol: "
-msgstr ""
+msgstr "Шәааи иҿыц протокол: "
 
 msgid "please input number!"
-msgstr ""
+msgstr "Шәааигәа шәылшоит!"
 
 msgid "V2ray MTProto/Shadowsocks not support https, close tls success!"
-msgstr ""
+msgstr "V2ray MTProto/Shadowsocks http-т р."
 
 msgid "Xray MTProto/Shadowsocks not support https, close tls success!"
-msgstr ""
+msgstr "Xray MTProto/Shadowsocks http-т р."
 
 msgid "modify protocol success"
-msgstr ""
+msgstr "Аҳара иԥашьа"
 
 msgid "auto switch 443 port.."
-msgstr ""
+msgstr "Аатраа 443 иқьала..."
 
 ### stream.py end ###
 ### tls.py start ###
 msgid "1. Let's Encrypt certificate"
-msgstr ""
+msgstr "1. Шәааи аиашьа"
 
 msgid "2. ZeroSSL certificate"
-msgstr ""
+msgstr "2. ZeroSSL ҳиатк"
 
 msgid "3. BuyPass certificate"
-msgstr ""
+msgstr "3. BuyPass"
 
 msgid "4. Customize certificate file path"
-msgstr ""
+msgstr "4. Уи аиашақәа ашьақ"
 
 msgid "local vps ip address: "
-msgstr ""
+msgstr "Окасҭааа vps ip адрес: "
 
 msgid "please input your vps domain: "
-msgstr ""
+msgstr "Шәааи шәара шәара vps domein: "
 
 msgid "domain check error!!!"
-msgstr ""
+msgstr "Домин амҩақәа иқәныҟәы!!!"
 
 msgid "domain can't analysis to local ip!!!"
-msgstr ""
+msgstr "Уи аилкаалак ip - лассы - лассы - лассы - лассы!"
 
 msgid "please input your email to apply for a certificate: "
-msgstr ""
+msgstr "Шәааи шәылшоит иҳаиҭеиҵаа ашьҭахь: "
 
 msgid "not valid email, please input again!"
-msgstr ""
+msgstr "Еиҳала иҳамҭа акәын."
 
 msgid "auto generate SSL certificate, please wait.."
-msgstr ""
+msgstr "Аҳамҭак SSL- и аиашьа"
 
 msgid "please input certificate cert file path: "
-msgstr ""
+msgstr "Аиашамҭа ашьҭыса ашьҭахь: "
 
 msgid "please input certificate key file path: "
-msgstr ""
+msgstr "Шәара шәақәа ашьҭак ашьақәа файла: "
 
 msgid "certificate cert or key not exist!"
-msgstr ""
+msgstr "Мамзаргьы аилкаара аамҭак!"
 
 msgid "please input the certificate cert file domain: "
-msgstr ""
+msgstr "Шәазҭанабжьа ашьҭахь ашьҭыса ашьҭахь файл domein. "
 
 msgid "domain is null!"
-msgstr ""
+msgstr "Уи адоуҳатә!"
 
 msgid "group tls status"
-msgstr ""
+msgstr "'Ажәашам'"
 
 msgid "1.open TLS"
-msgstr ""
+msgstr "1. Аҳала TLS"
 
 msgid "2.close TLS"
-msgstr ""
+msgstr "2.clo TLS"
 
 msgid "MTProto/Shadowsocks protocol not support https!!!"
-msgstr ""
+msgstr "MTProto/Shadowsocks протоколлор"
 
 ### tls.py end ###
 ### cdn.py start ###
 msgid "modify cdn"
-msgstr ""
+msgstr "Кdn / / / / / / / / / / / / / / / / / / / / /"
 
 msgid "please input run cdn mode domain: "
-msgstr ""
+msgstr "Шәазҭап ашьҭахь cdn мода: "
 
 msgid "domain is empty!"
-msgstr ""
+msgstr "Уи аҵыхәтәа!"
 
 msgid "this group domain {}, enter to use it or input other domain: "
-msgstr ""
+msgstr "Арҭ атәаша domein {}, ашьҭахь, ма мамзаргьы иҭыцуа: "
 
 msgid "must be close cdn proxy!"
-msgstr ""
+msgstr "Уи аилкаауа, убри аҟынтә."
 
 msgid "please select https port to cdn: "
-msgstr ""
+msgstr "Шәазҭала https port иҳалак. "
 
 msgid "please select protocol to cdn: "
-msgstr ""
+msgstr "Шәааи иҭеиҳәоит протокол. "
 
 ### update_timer.py start ###
 msgid "open"
-msgstr ""
+msgstr "Ачб"
 
 msgid "close"
-msgstr ""
+msgstr "Аҳхоз"
 
 msgid "schedule update v2ray task"
-msgstr ""
+msgstr "V2ray аусур"
 
 msgid "schedule update xray task"
-msgstr ""
+msgstr "Ашьҭахь xray атәы"
 
 msgid "1.open schedule task"
-msgstr ""
+msgstr "1.open акәгь"
 
 msgid "2.close schedule task"
-msgstr ""
+msgstr "2. Аҩсҭаа амҩақәа"
 
 msgid "Tip: open schedule update v2ray at 3:00"
-msgstr ""
+msgstr "Ажәамҭа: аҟны ашьҭахь v2ray 3: 00"
 
 msgid "Tip: open schedule update xray at 3:00"
-msgstr ""
+msgstr "Ажәамкаа: иҿыхра ашьҭахь"
 
 msgid "have open schedule!"
-msgstr ""
+msgstr "Иаҳҳәап, насгьы!"
 
 msgid "close shedule task success"
-msgstr ""
+msgstr "Ажәақәа аилкаара аҟазшьа аҟара аҟара аҟазшьақәа рҟынтә ацәгьа"
 
 msgid "Beijing time: 3, VPS time"
-msgstr ""
+msgstr "Ебгаз"
 
 msgid "success open schedule update task!"
-msgstr ""
+msgstr "Уи аҿагылазаашьақәа аҟара аҿагылара!"
 
 ### update_timer.py end ###
 msgid "ppaet"
-msgstr ""
+msgstr "Ппат"
