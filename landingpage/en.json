@@ -1,0 +1,131 @@
+{
+    "about": {
+        "header": {
+            "title": "Watch more,<br/>search less.",
+            "description": "We have created a package full of hand-picked channels to entertain you and let you follow your passions – for free!"
+        },
+        "body": {
+            "rows": {
+                "row_1": {
+                    "title": "Follow your passions.",
+                    "description": "rlaxx TV aims to offer a diverse catalogue of TV channels, which will supply you with hand-picked content across many categories such as movies, series, sports and lifestyle. There is something for you too."
+                },
+                "row_2": {
+                    "title": "Best TV experience.",
+                    "description": "Enjoy the best of previously contrasting TV worlds:flexible and individual video-on-demand services combined with the relaxed entertainment of linear TV."
+                },
+                "row_3": {
+                    "title": "Watch instantly or as you like.",
+                    "description": "Without searching, instantly jump into our TV program with new features like pause, restart or watch later. If you like, you can also discover one of a kind content or watch your all-time favorites in the on-demand area."
+                },
+                "row_4": {
+                    "title": "Everywhere at anytime you like.",
+                    "description": "At the moment rlaxx TV is available on selected platforms. In the near future we will be on every streaming device, so you can watch your favorite content whenever and wherever you like – for free."
+                }
+            }
+        }
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "first": {
+            "question": "What is rlaxx TV?",
+            "answer": "rlaxx TV is an advertising-based video-on-demand (AVoD) service. Our goal is to provide the best TV experience available by modern standards. Therefore, rlaxx TV provides high-quality content in curated linear channels with enhanced features like pause, restart or watch later. Furthermore, you can access all contents in an on-demand catalogue."
+        },
+        "second": {
+            "question": "What channels are on rlaxx TV?",
+            "answer": "When it comes to content, rlaxx TV relies on a global network of content providers supplying us with custom-fit content for viewers across many categories. Our partners include publishers from Asia, South East Asia, the Americas and Africa as well as renowned European content providers. The diversity of our program enables us to satisfy almost any demand you have, no matter how specific. We start with a selection and will add great new content for you regularly. "
+        },
+        "third": {
+            "question": "Does rlaxx TV cost anything?",
+            "answer": "No, the service is for free. rlaxx TV is an advertising-based video-on-demand (AVoD) service. This means the offering is financed by advertising and is free of charge for you."
+        },
+        "forth": {
+            "question": "Where is the rlaxx TV app available?",
+            "answer": "rlaxx TV will be accessible everywhere and, on any device, soon. Currently the app is available on selected devices. You can check if the app is already available on your device by clicking here. There you can also register to the newsletter to be informed as soon as rlaxx TV is available on your device.  "
+        }
+    },
+    "newsletter": {
+        "info": "If you subscribe to our newsletter, your data will be processed according to our [[Privacy Policy]].",
+        "email_placeholder": "Your email address",
+        "error": "Sorry, something went wrong. Please try again later.",
+        "invalid_email": "Sorry, this seems to be an invalid email address",
+        "subscribe": {
+            "title": "Receive important news and announcements from rlaxx TV",
+            "button": "Sign up to our newsletter"
+        },
+        "notify": {
+            "button": "Notify Me!"
+        },
+        "confirmation": {
+            "title": "Thank you for your registration!",
+            "text": "You will now receive regular rlaxx TV updates.<br/>More exiting news coming soon!",
+            "button": "Download the app now"
+        },
+        "confirm": {
+            "title": "Thank you for your registration!",
+            "text": "We have sent a link to confirm the registration to {{email}}.<br/>Please click on this link to confirm your subscription to the newsletter."
+        },
+        "unsubscription": {
+            "title": "Thank you for spending your time with us!",
+            "text": "You have successfully unsubscribed from our newsletter"
+        }
+    },
+    "download_modal": {
+        "device_select": {
+            "title": "Please select the brand of your Smart TV or other streaming device.",
+            "caption": "Sign up to our newsletter to get informed when we launch on new platforms."
+        },
+        "available": {
+            "title": "How to install rlaxx TV on {{device}} devices:",
+            "caption": "Or install directly on your {{device}} device:"
+        },
+        "unavailable": {
+            "title": "Sorry, rlaxx TV is not available on {{device}} yet.",
+            "caption": "We can notify you on important updates regarding rlaxx TV on {{device}}"
+        },
+        "installation": {
+            "firetv": {
+                "step_1": "First step",
+                "step_2": "Last but not least"
+            }
+        }
+    },
+    "button": {
+        "close": "Close",
+        "other_devices": "Other devices",
+        "watch_free": "Watch for free",
+        "download_to_device": "Download to your device",
+        "cookies": {
+            "accept": "Accept",
+            "decline": "Decline"
+        },
+        "privacy": {
+            "accept": "Accept",
+            "decline": "Decline"
+        }
+    },
+    "imprint": {
+        "title": "Imprint",
+        "court_of_registry": "Court of Registry",
+        "registration_number": "Registration Number",
+        "vat_id": "VAT ID",
+        "ceo": "Chief Executive Officer"
+    },
+    "privacy": {
+        "settings": {
+            "title": "Privacy settings",
+            "text": "In order to further improve this service and to adapt it to the constantly changing needs of users, we analyze anonymous user behavior. In addition, rlaxx TV uses targeted advertising to better tailor advertising to the users and to display less irrelevant and repetitive advertising. This data is also anonymized and securely encrypted."
+        }
+    },
+    "footer": {
+        "home": "Home",
+        "newsletter": "Newsletter",
+        "content_partner": "Join rlaxx TV",
+        "legal": "Legal",
+        "imprint": "Imprint",
+        "privacy": "Privacy"
+    },
+    "cookies": {
+        "text": "To improve this website we use cookies to analyse the traffic. You can revoke your consent to this at any time in our [[<span>privacy policy</span>]]"
+    }
+}
