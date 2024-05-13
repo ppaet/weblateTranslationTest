@@ -1,0 +1,123 @@
+{
+    "newsletter": {
+        "info": "",
+        "email_placeholder": "",
+        "error": "",
+        "invalid_email": "",
+        "subscribe": {
+            "title": "",
+            "button": ""
+        },
+        "notify": {
+            "button": ""
+        },
+        "unsubscription": {
+            "text": "",
+            "title": ""
+        },
+        "confirm": {
+            "text": "",
+            "title": ""
+        },
+        "confirmation": {
+            "button": "",
+            "text": "",
+            "title": ""
+        }
+    },
+    "button": {
+        "close": "",
+        "other_devices": "",
+        "cookies": {
+            "accept": "",
+            "decline": ""
+        },
+        "download_to_device": "",
+        "watch_free": "",
+        "privacy": {
+            "decline": "",
+            "accept": ""
+        }
+    },
+    "footer": {
+        "social_media": ""
+    },
+    "faq": {
+        "forth": {
+            "question": "",
+            "answer": ""
+        },
+        "third": {
+            "question": "",
+            "answer": ""
+        },
+        "first": {
+            "question": "",
+            "answer": ""
+        },
+        "title": "",
+        "second": {
+            "question": "",
+            "answer": ""
+        }
+    },
+    "about": {
+        "body": {
+            "rows": {
+                "row_1": {
+                    "description": "",
+                    "title": ""
+                },
+                "row_3": {
+                    "description": "",
+                    "title": ""
+                },
+                "row_2": {
+                    "description": "",
+                    "title": ""
+                },
+                "row_4": {
+                    "description": "",
+                    "title": ""
+                }
+            }
+        },
+        "header": {
+            "description": "",
+            "title": ""
+        }
+    },
+    "imprint": {
+        "ceo": "",
+        "vat_id": "",
+        "registration_number": "",
+        "court_of_registry": "",
+        "title": ""
+    },
+    "download_modal": {
+        "installation": {
+            "firetv": {
+                "step_2": "",
+                "step_1": ""
+            }
+        },
+        "unavailable": {
+            "caption": "",
+            "title": ""
+        },
+        "available": {
+            "caption": "",
+            "title": ""
+        },
+        "device_select": {
+            "caption": "",
+            "title": ""
+        }
+    },
+    "privacy": {
+        "settings": {
+            "text": "",
+            "title": ""
+        }
+    }
+}
