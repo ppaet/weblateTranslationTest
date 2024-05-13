@@ -1,356 +1,363 @@
 {
     "navigation": {
-        "on_demand": "",
-        "watchlist": "",
-        "program_guide": "",
-        "live": "",
-        "settings": "",
-        "stop_watching": "",
-        "reset_app": "",
-        "privacy_policy": ""
+        "on_demand": "Talep üzerine",
+        "watchlist": "İzleme listesi",
+        "program_guide": "Program rehberi",
+        "live": "Canlı tv",
+        "settings": "Ayarlar",
+        "stop_watching": "İzlemeyi bırak",
+        "reset_app": "Uygulamayı sıfırla",
+        "privacy_policy": "Gizlilik politikası"
     },
     "buttons": {
-        "close_confirm": "",
-        "add_watchlist": "",
-        "watch_start": "",
-        "more_info": "",
-        "back": "",
-        "watch_live": "",
-        "play_now": "",
-        "close": "",
-        "start_watching_now": "",
-        "decline": "",
-        "accept": "",
-        "exit_app": "",
-        "continue": "",
-        "try_again": "",
-        "close_app": "",
-        "finish": "",
-        "next": "",
-        "show_new_channels": "",
-        "skip": "",
-        "nerver_show_messages_like_this": "",
-        "watch_now": "",
-        "back_to_top": "",
-        "browse_channels": "",
-        "more": "",
-        "next_episode": "",
-        "details": "",
-        "stop_watching": "",
-        "understood": "",
-        "stop_playing": "",
-        "manage_consent": "",
-        "download": "",
-        "start_watching_now_us_age_confirmation": "",
-        "yes": "",
-        "no": "",
-        "next_video": "",
-        "play_content": "",
-        "continue_content": "",
-        "play": "",
-        "nerver_show_again": "",
-        "dont_show_again_for_this_version": "",
-        "all_episodes": ""
+        "close_confirm": "Evet, bu uygulamayı kapat",
+        "add_watchlist": "İzleme listesine ekle",
+        "watch_start": "Baştan izle",
+        "more_info": "Daha fazla bilgi",
+        "back": "Geri dön",
+        "watch_live": "Canlı izle",
+        "play_now": "Şimdi oyna",
+        "close": "Kapat",
+        "start_watching_now": "Şimdi izlemeye başla",
+        "decline": "Düşüş",
+        "accept": "Kabul et",
+        "exit_app": "Çıkış uygulaması",
+        "continue": "Devam et",
+        "try_again": "Tekrar dene",
+        "close_app": "Bu uygulamayı kapat",
+        "finish": "Bitirmek",
+        "next": "Sonraki",
+        "show_new_channels": "Yeni kanalları göster",
+        "skip": "Atla",
+        "nerver_show_messages_like_this": "Asla böyle mesajlar gösterme",
+        "watch_now": "Şimdi izle",
+        "back_to_top": "Zirveye geri dön",
+        "browse_channels": "Kanallara göz atın",
+        "more": "Daha fazla",
+        "next_episode": "Sonraki bölüm",
+        "details": "Detaylar",
+        "stop_watching": "İzlemeyi bırak",
+        "understood": "Anladım",
+        "stop_playing": "Oynamayı bırak",
+        "manage_consent": "Rıza yönetimi",
+        "download": "Indir",
+        "start_watching_now_us_age_confirmation": "Onaylayın ve şimdi izlemeye başlayın",
+        "yes": "Evet",
+        "no": "Hayır",
+        "next_video": "Sonraki video",
+        "play_content": "Oyna [x5x]",
+        "continue_content": "Devam et [x9x]",
+        "play": "Oyna",
+        "nerver_show_again": "Bir daha asla gösterme",
+        "dont_show_again_for_this_version": "Bu sürüm için tekrar gösterme",
+        "all_episodes": "Tüm bölümler"
     },
     "on_demand": {
-        "most_recent": "",
-        "highlights": "",
-        "playlists": "",
-        "channels_row_title": "",
-        "more_by": "",
+        "most_recent": "En son",
+        "highlights": "Vurgular",
+        "playlists": "Çalma listeleri",
+        "channels_row_title": "Talep kanallarında",
+        "more_by": "Daha fazla [x8x]",
         "content_lane": {
-            "popular_programmes": "",
-            "new_on_rlaxx_tv": "",
-            "what_others_are_watching": "",
-            "on_demand_channels": "",
-            "continue_watching": ""
+            "popular_programmes": "Popüler programlar",
+            "new_on_rlaxx_tv": "Rlaxx tv'de yeni",
+            "what_others_are_watching": "Diğerleri ne izliyor",
+            "on_demand_channels": "Talep kanallarında",
+            "continue_watching": "Izlemeye devam et"
         },
-        "tv_shows": "",
-        "movies": "",
-        "about_content": "",
-        "all_videos": "",
-        "series": "",
-        "live_channel": ""
+        "tv_shows": "Tv şovları",
+        "movies": "Filmler",
+        "about_content": "Hakkında [x6x]",
+        "all_videos": "Tüm videolar",
+        "series": "Seri",
+        "live_channel": "Canlı kanal"
     },
     "settings": {
         "app_language": {
-            "description": "",
-            "title": ""
+            "description": "Rlaxx tv'deki düğmeler ve metinler için lütfen tercih ettiğiniz dili seçin. Bu, hangi kanalların mevcut olduğunu etkilemez.",
+            "title": "Uygulama dili"
         },
         "about_app": {
-            "description": "",
-            "title": ""
+            "description": "©2023 rlaxx tv gmbh, duvar 55, 24103 kiel, almanya. Kayıt mahkemesi: amtsgericht kiel. Kayıt numarası: hrb 21455 ki. Kdv id: de329313048. Genel müdür: ronny lutzi. Bize ulaşın support@rlaxxtv.com",
+            "title": "Bu uygulama hakkında"
         },
         "language": {
-            "subtitle": "",
-            "explanation": "",
-            "title": ""
+            "subtitle": "Rlaxx tv için tercih ettiğiniz arayüz dilini seçin",
+            "explanation": "Rlaxx tv'deki düğmeler ve metinler için lütfen tercih ettiğiniz dili seçin. Bu seçim, içeriğin dilini veya sizin için hangi kanalların kullanılabileceğini etkilemez.",
+            "title": "Dil"
         },
         "notifications_and_announcements": {
-            "title": "",
-            "subtitle": "",
+            "title": "Bildirimler ve duyurular",
+            "subtitle": "Görmek için hangi bildirimleri ve duyuruları seçin",
             "new_available_channels": {
-                "title": "",
-                "subtitle": ""
+                "title": "Yeni mevcut kanallar",
+                "subtitle": "Rlaxx tv'yi açtığınızda henüz görmediğiniz yeni kanallarda duyurular alın."
             }
         },
         "consent_preferences": {
-            "title": "",
-            "subtitle": "",
-            "explanation": ""
+            "title": "Rıza tercihleri",
+            "subtitle": "Analiz ve izleme için onayınızı yönetin",
+            "explanation": "Kullanıcılarımızın görüntüleme alışkanlıklarına ilişkin anonim veriler, daha iyi bir rlaxx tv deneyimi sunmamıza yardımcı olur. Onu toplamak için, sizin onayınıza ihtiyacımız var-ve bize veya ortaklarımıza her zaman verdiğiniz onayı yönetebilirsiniz."
         },
         "privacy_policy": {
-            "title": "",
-            "subtitle": ""
+            "title": "Gizlilik politikası",
+            "subtitle": "Kişisel verilerinizi nasıl işlediğimizi görün"
         },
         "imprint": {
-            "title": "",
-            "subtitle": ""
+            "title": "Künye",
+            "subtitle": "Rlaxx tv hakkında"
         },
         "faq": {
-            "title": "",
-            "subtitle": "",
+            "title": "Sık sorulan sorular",
+            "subtitle": "Sık sorulan sorulara cevap alın",
             "item_1": {
-                "title": "",
-                "content": ""
+                "title": "Rlaxx tv nedir?",
+                "content": "Rlaxx tv, reklam destekli ve bu nedenle içeriğin çeşitli içerik sağlayıcılarının doğrusal tema tabanlı kanallarında gösterildiği ücretsiz bir akış hizmetidir. Duraklatma, yeniden başlatma veya daha sonra izleme gibi işlevlerin yanı sıra talep üzerine bir kütüphaneye erişim imkanı da dahildir. Bu, uygulamanın doğrusal televizyonun rahat deneyimini talep üzerine video esnekliği ile birleştirdiği anlamına gelir. Televizyon gibi ama farklı!"
             },
             "item_2": {
-                "title": "",
-                "content": ""
+                "title": "Rlaxx tv'de hangi içeriği görmeyi bekleyebilirim?",
+                "content": "İçeriğimiz farklı türlerle kanallara ayrılmıştır, böylece ilginizi çeken kanala sadece zap yapabilirsiniz. Global ağımızdaki içerik ortaklarından özenle seçilmiş kanalların yanı sıra teklifler sunuyoruz."
             },
             "item_3": {
-                "title": "",
-                "content": ""
+                "title": "Rlaxx tv maliyeti nedir?",
+                "content": "Rlaxx tv reklamlar aracılığıyla finanse edildiğinden, teklifimiz izleyiciler için tamamen ücretsiz kalır. Bir hesap oluşturmanıza bile gerek yok. Sadece uygulamayı akıllı tv'nizde indirmeniz gerekiyor ve sonra izlemeye başlayabilirsiniz!\n\nDoğrusal tv'den farklı olarak, uzun ticari molalar göstermiyoruz, ancak kısa bir mola başlatan reklam klipleri. Klasik özel tv kanallarından çok daha az reklam gösteriyoruz."
             },
             "item_4": {
-                "title": "",
-                "content": ""
+                "title": "Rlaxx tv'yi nerede bulabilirim?",
+                "content": "Rlaxx tv, iphone/ipad'de, çoğu akıllı tv'de ve tarayıcınızda bir uygulama olarak kullanılabilir. Ayrıca, rlaxx tv yakında android telefonlar ve tabletlerde satışa sunulacak. Visi t rlaxxtv.com, tercih ettiğiniz cihaz için rlaxx tv uygulamasını ne zaman ve nasıl indireceğinizi öğrenmek ve ücretsiz ve kayıt olmadan akışa başlamak için!"
             }
         },
         "help_and_support": {
-            "explanation": "",
-            "title": "",
-            "subtitle": "",
-            "contact_button": "",
-            "explanation_alt": "",
-            "explanation_3": "",
-            "explanation_2": ""
+            "explanation": "Rlaxx tv ile ilgili sorunlar yaşıyorsanız veya başka sorularınız veya endişeleriniz varsa, aşağıdaki düğmeye basarak müşteri desteğimize ulaşın.",
+            "title": "Yardım ve destek",
+            "subtitle": "Müşteri desteğimize ulaşın",
+            "contact_button": "Müşteri desteğine başvurun",
+            "explanation_alt": "Rlaxx tv ile ilgili sorunlar yaşıyorsanız veya başka sorularınız veya endişeleriniz varsa, [x124x] rlaxxtv.com/support[x151x]. adresindeki müşteri desteğimize ulaşın.",
+            "explanation_3": "Daha iyi destek için lütfen mevcut uygulama sürümünüzü sağlayın: [x64x]",
+            "explanation_2": "Veya aşağıdaki qr kodunu tarayarak bize ulaşın:"
         }
     },
     "epg": {
-        "other_channels": "",
-        "current_channel": "",
-        "currently_playing": ""
+        "other_channels": "Diğer kanallar",
+        "current_channel": "Akım kanalı",
+        "currently_playing": "Şu anda oynuyor"
     },
     "general": {
         "timing": {
-            "days_ago": "",
-            "in_days": "",
-            "yesterday": "",
-            "tomorrow": "",
-            "today": "",
-            "minutes": "",
-            "minutes_remaining": ""
+            "days_ago": "[X0x] günler önce",
+            "in_days": "[X3x] günlerde",
+            "yesterday": "Dün",
+            "tomorrow": "Yarın",
+            "today": "Bugün",
+            "minutes": "[X0x] dakika",
+            "minutes_remaining": "[X0x] min kaldı"
         },
         "ads": {
-            "will_start": "",
-            "will_continue": "",
-            "advertisement": ""
+            "will_start": "Bu reklamdan sonra başlayacak",
+            "will_continue": "Bu reklamdan sonra devam edecek",
+            "advertisement": "Reklam"
         },
-        "on": "",
-        "off": "",
-        "season_short": "",
-        "episode_short": "",
-        "app_version": "",
-        "season": "",
-        "seasons": "",
-        "playlist": "",
-        "seasons_amount": "",
-        "season_amount": "",
-        "season_number": "",
-        "subtitles": "",
-        "age_rating": ""
+        "on": "Üzerinde",
+        "off": "Kapalı",
+        "season_short": "S",
+        "episode_short": "E",
+        "app_version": "App sürümü",
+        "season": "Sezon",
+        "seasons": "Mevsim",
+        "playlist": "Çalma listesi",
+        "seasons_amount": "[X0x] mevsimler",
+        "season_amount": "[X0x] sezon",
+        "season_number": "Sezon [x7x]",
+        "subtitles": "Altyazılar",
+        "age_rating": "Yaş değerlendirmesi"
     },
     "privacy": {
         "settings": {
-            "text": "",
-            "title": "",
-            "hint": "",
-            "opted-out": ""
+            "text": "Bu hizmeti daha da geliştirmek ve kullanıcıların sürekli değişen ihtiyaçlarına uyum sağlamak için anonim kullanıcı davranışlarını analiz ediyoruz. Ayrıca, rlaxx tv, kullanıcılara daha iyi reklam vermek ve daha az alakasız ve tekrarlayan reklam görüntülemek için hedeflenen reklamları kullanır. Bu veriler ayrıca anonim ve güvenli bir şekilde şifrelenir.",
+            "title": "Gizlilik ayarları",
+            "hint": "Bu hizmetin teknik düzeyde çalışması için gerekli verilerin toplanması bu ayardan hariç tutulmaktadır.",
+            "opted-out": "Sizin tarafınızdan talep edildiği gibi, rlaxx tv herhangi bir izleme verisini diğer uygulamalar ve web siteleri ile paylaşmayacaktır. Ancak, rlaxx tv, hizmetinin düzgün çalışabilmesini sağlamak için bazı çerezleri kullanmalıdır. Bunun için kullanılan veriler elbette anonim olacak ve bu nedenle size geri izlenemez."
         },
         "anchors": {
-            "privacy_changes": "",
-            "general_notes": "",
-            "data_protection": "",
-            "definitions": ""
+            "privacy_changes": "Bu veri gizliliği bildiriminde değişiklikler",
+            "general_notes": "Genel notlar ve zorunlu bilgiler",
+            "data_protection": "Bir bakışta veri koruması",
+            "definitions": "Tanımlar"
         }
     },
     "modals": {
         "close-app": {
-            "title": ""
+            "title": "Bu uygulamayı kapatmak ister misiniz?"
         },
         "reset-app": {
-            "confirm": "",
-            "cancel": "",
-            "description": "",
-            "title": ""
+            "confirm": "Evet, bu uygulamayı sıfırla",
+            "cancel": "Hayır, geri dön",
+            "description": "Tüm kişisel ayarlarınız ve yerel olarak saklanan veriler silinecektir.",
+            "title": "Uygulamayı gerçekten sıfırlamak istiyor musunuz?"
         },
         "device_rotate": {
             "description": {
-                "rotate_to_portrait": "",
-                "rotate_to_landscape": ""
+                "rotate_to_portrait": "Tam ekran modundan çıkmak için lütfen cihazınızı portre yönelimine döndürün.",
+                "rotate_to_landscape": "Tam ekran moduna geçmek için lütfen cihazınızı manzara yönelimine döndürün."
             },
-            "title": ""
+            "title": "Cihazınızı döndürün"
         },
         "age_rating": {
-            "description": ""
+            "description": "Üzgünüm, yerel çocuk koruma yönetmelikleri nedeniyle, bu içeriği sadece saat 23:00 'ten sonra izleyebilirsiniz."
         }
     },
     "startup": {
         "finish": {
-            "description": "",
-            "title": "",
-            "description_us_age_confirmation": ""
+            "description": "Arama ihtiyacı olmadan keyfini çıkarın. Daha sonra duraklatma, ileri sarma, geri sarma, yeniden başlatma veya izleme seçeneği ile tv programımıza anında atlayın. Ve isterseniz, talep üzerine daha fazla içerik bulun.",
+            "title": "Hepsi bitti!",
+            "description_us_age_confirmation": "Arama ihtiyacı olmadan keyfini çıkarın. Daha sonra duraklatma, ileri sarma, geri sarma, yeniden başlatma veya izleme seçeneği ile tv programımıza anında atlayın. Ve isterseniz, talep üzerine daha fazla içerik bulun.\n\n[X212x] devam ederek en az 13 yaşında olduğunuzu doğrulayın. [x281x]",
+            "description-no-on-demand": "Arama gerektirmeden kesintisiz bir izleme deneyiminin tadını çıkarın. Geniş tv kanalları kataloğumuza doğrudan dalın veya program kılavuzunda mevcut ve yaklaşan canlı içeriğe göz atın."
         },
         "targeted-ads": {
-            "title": ""
+            "title": "Gizliliğinize değer veriyoruz",
+            "description-secondary": "Bu hizmetin teknik düzeyde çalışması için gerekli verilerin toplanması bu ayardan hariç tutulmaktadır.",
+            "description": "Bu hizmeti daha da geliştirmek ve kullanıcıların sürekli değişen ihtiyaçlarına uyum sağlamak için anonim kullanıcı davranışlarını analiz ediyoruz. Ayrıca, rlaxx tv, kullanıcılara daha iyi reklam vermek ve daha az alakasız ve tekrarlayan reklam görüntülemek için hedeflenen reklamları kullanır. Bu veriler ayrıca anonim ve güvenli bir şekilde şifrelenir."
         },
         "welcome": {
-            "description": "",
-            "title": ""
+            "description": "Tutkularınızı kolayca takip etmenize izin vermek için elle seçilmiş kanallarla inanılmaz bir eğlence hizmeti hazırladık.",
+            "title": "Rlaxx tv'ye hoşgeldiniz"
         },
         "apple-app-tracking": {
-            "description": "",
-            "title": ""
+            "description": "Rlaxx tv deneyiminizi daha alakalı reklamlarla geliştirmek istiyoruz. Bunun için bir sonraki adımda onayınıza ihtiyacımız var. Oynanan reklam miktarı bu ayardan etkilenmeyecektir.\n\nBununla ilgilenmiyor musun? Endişelenmeyin, bir sonraki adımda buna da itiraz edebilirsiniz.",
+            "title": "Hedeflenen reklam"
         },
         "loading-hint-2": {
-            "description": "",
-            "title": ""
+            "description": "Duraklatma, ileri sarma, yeniden başlatma veya daha sonra izleme seçeneği ile tv programımıza atlamaya hazır olun. Ve isterseniz, talep üzerine daha fazla içerik bulun.",
+            "title": "Neredeyse orada…"
         },
         "loading-hint-1": {
-            "description": "",
-            "title": ""
+            "description": "Sadece bir an içinde spor, müzik, film, yaşam tarzı ve macera gibi geniş bir kategoride çeşitli kanalların kataloğunun tadını çıkarabileceksiniz.",
+            "title": "Hazır şeyler almak…"
         }
     },
     "error": {
         "code_500": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen daha sonra tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] rlaxx tv geçici olarak kullanılamıyor gibi görünüyor."
         },
         "code_408": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] sizi rlaxx tv'ye bağlayamıyoruz."
         },
         "code_502": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen daha sonra tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] bu kanal şu anda mevcut değil gibi görünüyor."
         },
         "code_404": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen daha sonra tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] bu içerik şu anda mevcut değil."
         },
         "code_501": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen daha sonra tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] bu videoyu oynayarak bazı sıkıntılara girdik."
         },
         "code_400": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen internet bağlantınızı kontrol edin veya daha sonra tekrar deneyin.",
+            "title": "[X0x] üzgünüm, [x14x] rlaxx tv'yi yüklemekte sorun yaşıyoruz."
         },
         "code_403": {
             "geoblocking": {
-                "title": "",
-                "description": ""
+                "title": "[X0x] üzgünüm, [x.] rlaxx tv henüz bölgenizde mevcut değil.",
+                "description": "Kullanılabilirlik ile ilgili en son haberler ve güncellemeler için lütfen [x13x] rlaxxtv.com [x32x] adresini ziyaret edin."
             }
         },
-        "error_code": "",
+        "error_code": "Hata kodu",
         "code_503": {
             "maintenance": {
-                "description": "",
-                "title": ""
+                "description": "Rlaxx tv şu anda [x59x] [x67x] [x93x] tarihine kadar planlanan bakımdan geçiyor.",
+                "title": "[X0x] üzgünüm, [x14x] yakında geri döneceğiz!"
             }
         },
-        "contact_support_hint": "",
+        "contact_support_hint": "Daha fazla yardım için [x14x] rlaxxtv.com/support[x41x] adresinden bize ulaşın",
         "code_512-AFTV": {
-            "description": "",
-            "title": ""
+            "description": "Aşağıdaki cihazlar etkilenir: fire tv gen 1 (aftb), fire tv gen 2 (afts), fire tv stick gen 1 (aftm) ve fire tv stick gen 2 (aftt).",
+            "title": "[X0x] üzgünüm, [x14x] yangın tv cihazınız artık rlaxx tv'yi desteklemiyor."
         },
         "code_513": {
-            "description": "",
-            "title": ""
+            "description": "Şimdilik hala çalışıyor olsa da, bazı özellikler ve işlevler tamamen desteklenmeyebilir. Uygulamanın en son sürümüne güncellenmesini öneririz. Bize güven, buna değer!",
+            "title": "[X0x] uh oh,[x14x] bizim app eski bir sürümünü kullanıyorsunuz gibi görünüyor."
         },
         "code_512-GEN": {
-            "description": "",
-            "title": ""
+            "description": "Lütfen uygulamayı en son sürüme güncellemeyi deneyin. Uygulamayı güncelleyemiyorsanız, cihazınızın artık desteklenmemesi mümkündür. Bu sürüme devam ederseniz, uygulama ile ilgili sorunlarla karşılaşabilirsiniz.",
+            "title": "[X0x] üzgünüm, [x14x] bu uygulama sürümü artık desteklenmiyor."
         },
         "how_to_update": {
             "explanation": {
-                "ios": "",
-                "roku": "",
-                "tvos": "",
-                "android_tv": "",
-                "fire_tv": "",
-                "generic": ""
+                "ios": "Cihazınızdaki app store uygulamasını açın-> rlaxx tv'yi arayın ve arama sonuçlarından rlaxx tv app store sayfasını açın-> \"güncelleme\" düğmesine dokunun",
+                "roku": "Ana ekranınızdaki rlaxx tv kanalını bulun-> rlaxx tv'nin beyaz bir sınırla vurgulandığından emin olun veya vurgulamak için uzaktan kumandanızı kullanın-> uzaktan kumandanızdaki yıldız düğmesine basın ve ardından \"güncellemeleri kontrol et\" seçeneğini seçin",
+                "tvos": "Cihazınızdaki app store uygulamasını açın-> rlaxx tv'yi arayın ve arama sonuçlarından rlaxx tv app store sayfasını açın-> \"güncelleme\" düğmesine basın",
+                "android_tv": "Android tv aramasını açın-> rlaxx tv'yi arayın ve arama sonuçlarından rlaxx tv app store sayfasını açın-> \"güncelleme\" düğmesine basın",
+                "fire_tv": "Fire tv aramasını açın-> rlaxx tv'yi arayın ve rlaxx tv app store sayfasını arama sonuçlarından açın-> \"güncelleme\" düğmesine basın",
+                "generic": "Uygulamanızı cihazınızda güncellemede sorun yaşıyorsanız, cihazınız için çevrimiçi talimatları aramayı veya üreticinin destek ekibiyle iletişime geçmeyi deneyin."
             },
-            "title": ""
+            "title": "Nasıl güncellenir:"
+        },
+        "code_512-DESP": {
+            "title": "[X0x] üzgünüm, [x14x] [x29x] cihazınız artık rlaxx tv'yi desteklemiyor.",
+            "description": "Aşağıdaki cihazlar etkilenir: [x36x]"
         }
     },
     "live-player": {
         "hint": {
-            "press_ok_to_switch": ""
+            "press_ok_to_switch": "Kanalları değiştirmek için uzaktan kumandanızdaki “tamam” düğmesine basın"
         }
     },
     "player": {
         "hint": {
-            "next_up": "",
-            "next_up_countdown_finished": ""
+            "next_up": "Sonraki [x11x] [x19x] [x30x]",
+            "next_up_countdown_finished": "Sonraki up"
         }
     },
     "apple": {
         "app-tracking-transparency-prompt": {
-            "purpose": ""
+            "purpose": "Bu veriler size daha alakalı reklam vermek için kullanılır. Ayrıca, rlaxx tv'yi sürekli iyileştirmemize yardımcı olmak için kullanıcı davranış kalıplarının yanı sıra video oynatma performansını analiz etmek için bu verileri kullanıyoruz."
         }
     },
     "channel_promotion": {
-        "new_on_rlaxxtv": "",
-        "summary_text": ""
+        "new_on_rlaxxtv": "Rlaxx tv'de yeni",
+        "summary_text": "Son ziyaretinizden bu yana [x34x] [x42x] yeni kanallar [x65x] rlaxx tv'ye ekledik-neden onlara bir deneme't? Senin için de bir şey olabilir!"
     },
     "beta_gate": {
         "portfolio_notice": {
-            "description": "",
-            "title": ""
+            "description": "Rlaxx tv henüz bölgenizde resmi olarak mevcut değil. Bu nedenle sadece [x87x] sınırlı kanal ve içerik seçimi göreceksiniz. [x137x]",
+            "title": "Lütfen not edin"
         },
-        "wrong_code": "",
-        "website_hint": "",
-        "description": "",
-        "access_code": "",
-        "title": ""
+        "wrong_code": "Üzgünüm, yanlış kod, lütfen tekrar deneyin.",
+        "website_hint": "Daha fazla bilgi için [x12x] rlaxxtv.com [x70x] adresinden bizi ziyaret edin",
+        "description": "Web tarayıcısı için rlaxx tv beta henüz bölgenizde mevcut değil. Gelecek olanın önizlemesine bakmak için lütfen aşağıdaki erişim kodunuzu girin. [X158x] bu önizleme sadece sınırlı bir kanal ve içerik seçimi içerir ve nihai ürünü yansıtmaz. [x276x]",
+        "access_code": "Erişim kodunuz",
+        "title": "Rlaxx tv web beta"
     },
     "category": {
-        "featured": "",
-        "scifi": "",
-        "horror": "",
-        "slow_tv": "",
-        "news": "",
-        "comedy": "",
-        "classics": "",
-        "motorsports": "",
-        "sports": "",
-        "music": "",
-        "kids": "",
-        "food_and_drink": "",
-        "documentary": "",
-        "lifestyle_and_entertainment": "",
-        "movies_and_series": "",
-        "all": "",
-        "test": ""
+        "featured": "Öne çıkan",
+        "scifi": "Bilim-fi",
+        "horror": "Korku",
+        "slow_tv": "Yavaş tv",
+        "news": "Haberler",
+        "comedy": "Komedi",
+        "classics": "Classics kler",
+        "motorsports": "Motorsporları",
+        "sports": "Spor",
+        "music": "Müzik",
+        "kids": "Çocuklar",
+        "food_and_drink": "Yiyecek ve içecek",
+        "documentary": "Belgesel",
+        "lifestyle_and_entertainment": "Yaşam tarzı",
+        "movies_and_series": "Filmler ve seri",
+        "all": "Tüm kanallar",
+        "test": "Test et"
     },
     "content": {
         "description": {
-            "empty": ""
+            "empty": "Bu içerik için ek bilgi yok"
         },
         "title": {
-            "empty": ""
+            "empty": "Canlı programlama"
         }
     }
 }
