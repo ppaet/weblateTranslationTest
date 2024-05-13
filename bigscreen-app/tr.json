@@ -1,0 +1,356 @@
+{
+    "navigation": {
+        "on_demand": "",
+        "watchlist": "",
+        "program_guide": "",
+        "live": "",
+        "settings": "",
+        "stop_watching": "",
+        "reset_app": "",
+        "privacy_policy": ""
+    },
+    "buttons": {
+        "close_confirm": "",
+        "add_watchlist": "",
+        "watch_start": "",
+        "more_info": "",
+        "back": "",
+        "watch_live": "",
+        "play_now": "",
+        "close": "",
+        "start_watching_now": "",
+        "decline": "",
+        "accept": "",
+        "exit_app": "",
+        "continue": "",
+        "try_again": "",
+        "close_app": "",
+        "finish": "",
+        "next": "",
+        "show_new_channels": "",
+        "skip": "",
+        "nerver_show_messages_like_this": "",
+        "watch_now": "",
+        "back_to_top": "",
+        "browse_channels": "",
+        "more": "",
+        "next_episode": "",
+        "details": "",
+        "stop_watching": "",
+        "understood": "",
+        "stop_playing": "",
+        "manage_consent": "",
+        "download": "",
+        "start_watching_now_us_age_confirmation": "",
+        "yes": "",
+        "no": "",
+        "next_video": "",
+        "play_content": "",
+        "continue_content": "",
+        "play": "",
+        "nerver_show_again": "",
+        "dont_show_again_for_this_version": "",
+        "all_episodes": ""
+    },
+    "on_demand": {
+        "most_recent": "",
+        "highlights": "",
+        "playlists": "",
+        "channels_row_title": "",
+        "more_by": "",
+        "content_lane": {
+            "popular_programmes": "",
+            "new_on_rlaxx_tv": "",
+            "what_others_are_watching": "",
+            "on_demand_channels": "",
+            "continue_watching": ""
+        },
+        "tv_shows": "",
+        "movies": "",
+        "about_content": "",
+        "all_videos": "",
+        "series": "",
+        "live_channel": ""
+    },
+    "settings": {
+        "app_language": {
+            "description": "",
+            "title": ""
+        },
+        "about_app": {
+            "description": "",
+            "title": ""
+        },
+        "language": {
+            "subtitle": "",
+            "explanation": "",
+            "title": ""
+        },
+        "notifications_and_announcements": {
+            "title": "",
+            "subtitle": "",
+            "new_available_channels": {
+                "title": "",
+                "subtitle": ""
+            }
+        },
+        "consent_preferences": {
+            "title": "",
+            "subtitle": "",
+            "explanation": ""
+        },
+        "privacy_policy": {
+            "title": "",
+            "subtitle": ""
+        },
+        "imprint": {
+            "title": "",
+            "subtitle": ""
+        },
+        "faq": {
+            "title": "",
+            "subtitle": "",
+            "item_1": {
+                "title": "",
+                "content": ""
+            },
+            "item_2": {
+                "title": "",
+                "content": ""
+            },
+            "item_3": {
+                "title": "",
+                "content": ""
+            },
+            "item_4": {
+                "title": "",
+                "content": ""
+            }
+        },
+        "help_and_support": {
+            "explanation": "",
+            "title": "",
+            "subtitle": "",
+            "contact_button": "",
+            "explanation_alt": "",
+            "explanation_3": "",
+            "explanation_2": ""
+        }
+    },
+    "epg": {
+        "other_channels": "",
+        "current_channel": "",
+        "currently_playing": ""
+    },
+    "general": {
+        "timing": {
+            "days_ago": "",
+            "in_days": "",
+            "yesterday": "",
+            "tomorrow": "",
+            "today": "",
+            "minutes": "",
+            "minutes_remaining": ""
+        },
+        "ads": {
+            "will_start": "",
+            "will_continue": "",
+            "advertisement": ""
+        },
+        "on": "",
+        "off": "",
+        "season_short": "",
+        "episode_short": "",
+        "app_version": "",
+        "season": "",
+        "seasons": "",
+        "playlist": "",
+        "seasons_amount": "",
+        "season_amount": "",
+        "season_number": "",
+        "subtitles": "",
+        "age_rating": ""
+    },
+    "privacy": {
+        "settings": {
+            "text": "",
+            "title": "",
+            "hint": "",
+            "opted-out": ""
+        },
+        "anchors": {
+            "privacy_changes": "",
+            "general_notes": "",
+            "data_protection": "",
+            "definitions": ""
+        }
+    },
+    "modals": {
+        "close-app": {
+            "title": ""
+        },
+        "reset-app": {
+            "confirm": "",
+            "cancel": "",
+            "description": "",
+            "title": ""
+        },
+        "device_rotate": {
+            "description": {
+                "rotate_to_portrait": "",
+                "rotate_to_landscape": ""
+            },
+            "title": ""
+        },
+        "age_rating": {
+            "description": ""
+        }
+    },
+    "startup": {
+        "finish": {
+            "description": "",
+            "title": "",
+            "description_us_age_confirmation": ""
+        },
+        "targeted-ads": {
+            "title": ""
+        },
+        "welcome": {
+            "description": "",
+            "title": ""
+        },
+        "apple-app-tracking": {
+            "description": "",
+            "title": ""
+        },
+        "loading-hint-2": {
+            "description": "",
+            "title": ""
+        },
+        "loading-hint-1": {
+            "description": "",
+            "title": ""
+        }
+    },
+    "error": {
+        "code_500": {
+            "description": "",
+            "title": ""
+        },
+        "code_408": {
+            "description": "",
+            "title": ""
+        },
+        "code_502": {
+            "description": "",
+            "title": ""
+        },
+        "code_404": {
+            "description": "",
+            "title": ""
+        },
+        "code_501": {
+            "description": "",
+            "title": ""
+        },
+        "code_400": {
+            "description": "",
+            "title": ""
+        },
+        "code_403": {
+            "geoblocking": {
+                "title": "",
+                "description": ""
+            }
+        },
+        "error_code": "",
+        "code_503": {
+            "maintenance": {
+                "description": "",
+                "title": ""
+            }
+        },
+        "contact_support_hint": "",
+        "code_512-AFTV": {
+            "description": "",
+            "title": ""
+        },
+        "code_513": {
+            "description": "",
+            "title": ""
+        },
+        "code_512-GEN": {
+            "description": "",
+            "title": ""
+        },
+        "how_to_update": {
+            "explanation": {
+                "ios": "",
+                "roku": "",
+                "tvos": "",
+                "android_tv": "",
+                "fire_tv": "",
+                "generic": ""
+            },
+            "title": ""
+        }
+    },
+    "live-player": {
+        "hint": {
+            "press_ok_to_switch": ""
+        }
+    },
+    "player": {
+        "hint": {
+            "next_up": "",
+            "next_up_countdown_finished": ""
+        }
+    },
+    "apple": {
+        "app-tracking-transparency-prompt": {
+            "purpose": ""
+        }
+    },
+    "channel_promotion": {
+        "new_on_rlaxxtv": "",
+        "summary_text": ""
+    },
+    "beta_gate": {
+        "portfolio_notice": {
+            "description": "",
+            "title": ""
+        },
+        "wrong_code": "",
+        "website_hint": "",
+        "description": "",
+        "access_code": "",
+        "title": ""
+    },
+    "category": {
+        "featured": "",
+        "scifi": "",
+        "horror": "",
+        "slow_tv": "",
+        "news": "",
+        "comedy": "",
+        "classics": "",
+        "motorsports": "",
+        "sports": "",
+        "music": "",
+        "kids": "",
+        "food_and_drink": "",
+        "documentary": "",
+        "lifestyle_and_entertainment": "",
+        "movies_and_series": "",
+        "all": "",
+        "test": ""
+    },
+    "content": {
+        "description": {
+            "empty": ""
+        },
+        "title": {
+            "empty": ""
+        }
+    }
+}
