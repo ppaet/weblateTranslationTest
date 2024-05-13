@@ -1,0 +1,123 @@
+{
+    "newsletter": {
+        "info": "Wenn du unseren Newsletter abonnierst, werden deine Daten gemäß unserer [[Datenschutzerklärung]] verarbeitet.",
+        "email_placeholder": "Ihre Email Adresse",
+        "error": "Entschuldigung, da ist etwas schief gelaufen. Bitte versuche es später noch einmal.",
+        "invalid_email": "",
+        "subscribe": {
+            "title": "Erhalte wichtige Nachrichten und Ankündigungen von rlaxx TV",
+            "button": "Abonniere unseren Newsletter"
+        },
+        "notify": {
+            "button": "Benachrichtige mich!"
+        },
+        "unsubscription": {
+            "text": "Du hast dich erfolgreich von unserem Newsletter abgemeldet",
+            "title": "Vielen Dank, dass du deine Zeit mit uns verbracht hast!"
+        },
+        "confirm": {
+            "text": "Wir haben einen Link zur Bestätigung der Anmeldung an {{email}}.<br/>Bitte klicke auf diesen Link, um dein Abonnement des Newsletters zu bestätigen.",
+            "title": "Vielen Dank für deine Anmeldung!"
+        },
+        "confirmation": {
+            "button": "Lade die App jetzt herunter",
+            "text": "Du wirst nun regelmäßig Updates von rlaxx TV erhalten.<br/>Weitere aufregende Neuigkeiten in Kürze!",
+            "title": "Vielen Dank für deine Anmeldung!"
+        }
+    },
+    "button": {
+        "close": "Schließen",
+        "other_devices": "Weitere Geräte",
+        "cookies": {
+            "accept": "Akzeptieren",
+            "decline": "Deaktivieren"
+        },
+        "download_to_device": "Für dein Gerät herunterladen",
+        "watch_free": "Kostenlos schauen",
+        "privacy": {
+            "decline": "Ablehnen",
+            "accept": "Akzeptieren"
+        }
+    },
+    "footer": {
+        "social_media": "Folge uns"
+    },
+    "faq": {
+        "forth": {
+            "question": "Wo ist die rlaxx TV App verfügbar?",
+            "answer": "rlaxx TV wird in der Zukunft überall und auf jedem Gerät verfügbar sein. Derzeit ist die App auf ausgewählten Geräten zugänglich. Du kannst überprüfen, ob die App bereits auf Ihrem Gerät verfügbar ist, indem du hier klickst. Dort kannst du dich auch für den Newsletter registrieren, um informiert zu werden, sobald rlaxx TV auf deinem Gerät verfügbar ist.  "
+        },
+        "third": {
+            "question": "Kostet rlaxx TV etwas?",
+            "answer": "Nein, der Dienst ist kostenlos. rlaxx TV ist ein werbefinanzierter Video-on-Demand-Dienst (AVoD). Das bedeutet, das Angebot ist werbefinanziert und ist für dich kostenlos."
+        },
+        "first": {
+            "question": "Was ist rlaxx TV?",
+            "answer": "rlaxx TV ist ein werbefinanzierter Video-on-Demand-Dienst (AVoD). Unser Ziel ist es, das nach modernen Standards beste Fernseherlebnis anzubieten. Deshalb zeigt rlaxx TV qualitativ hochwertige Inhalte in kuratierten linearen Kanälen mit erweiterten Funktionen wie Pause-, Neustart- oder Später-Anschauen-Option. Darüber hinaus kannst du auf alle Inhalte in einem On-Demand-Katalog zugreifen."
+        },
+        "title": "Häufig gestellte Fragen",
+        "second": {
+            "question": "Welche Kanäle werden auf rlaxx TV angeboten?",
+            "answer": "Bezüglich der Inhalte greift rlaxx TV auf ein globales Netzwerk an Content-Providern zurück, die uns passgenaue Inhalte für Zuschauer aus vielen Kategorien liefern. Zu unseren Partnern gehören Content-Anbieter aus Asien, Südostasien, Nord-, Süd- und Mittelamerika und Afrika sowie renommierte europäische Content-Anbieter. Unsere Programmvielfalt ermöglicht es uns, nahezu jede noch so spezifische Nachfrage zu befriedigen. Wir beginnen mit einer Auswahl und werden regelmäßig großartige neue Inhalte für dich hinzufügen. "
+        }
+    },
+    "about": {
+        "body": {
+            "rows": {
+                "row_1": {
+                    "description": "rlaxx TV wurde entwickelt, um einen vielfältigen Katalog von TV-Kanälen anzubieten, der dich mit handverlesenen Inhalten aus zahlreichen Kategorien versorgt. Filme, Serien, Sport und Lifestyle sind nur einige – auch für dich ist etwas dabei.",
+                    "title": "Erfülle deine Leidenschaften."
+                },
+                "row_3": {
+                    "description": "Schalte direkt und ohne lange zu suchen in unser Fernsehprogramm, erweitert mit neuen Funktionen wie Pause-, Neustart-oder Später-Anschauen-Option. Wenn du möchtest, kannst du im On-Demand Bereich einzigartige Inhalte entdecken und deineFavoriten jederzeit abrufen.",
+                    "title": "Guck direkt oder nach Belieben."
+                },
+                "row_2": {
+                    "description": "Genieß das Beste aus bisher gegensätzlichen Fernsehwelten: flexibles und individuellesVideo-on-Demand kombiniert mit der entspannten Unterhaltung des linearen Fernsehens.",
+                    "title": "Das Beste TV Erlebnis."
+                },
+                "row_4": {
+                    "description": "Zurzeit ist rlaxx TV auf ausgewählten Plattformen verfügbar. In naher Zukunft werden wir auf jedem Streaming-Gerät zu finden sein, so dass du deine Lieblingsinhalte jederzeit und überall ansehen kannst – kostenlos.",
+                    "title": "Überall, zu jeder Zeit."
+                }
+            }
+        },
+        "header": {
+            "description": "Wir haben ein Paket handerlesener Kanäle zusammengestellt, die dich unterhalten und deine Leidenschaften erfüllen – kostenlos!",
+            "title": "Watch more,<br/>search less."
+        }
+    },
+    "imprint": {
+        "ceo": "Geschäftsführer",
+        "vat_id": "Umsatzsteuer-Identifikationsnummer",
+        "registration_number": "Registernummer",
+        "court_of_registry": "Handelsregister",
+        "title": "Impressum"
+    },
+    "download_modal": {
+        "installation": {
+            "firetv": {
+                "step_2": "Zu guter Letzt",
+                "step_1": "Erster Schritt"
+            }
+        },
+        "unavailable": {
+            "caption": "Wir können dich über wichtige Updates bezüglich rlaxx TV auf {{device}} informieren",
+            "title": "Sorry, rlaxx TV ist auf {{device}} noch nicht verfügbar."
+        },
+        "available": {
+            "caption": "Oder direkt auf deinem Gerät installieren:",
+            "title": "So installieren Sie rlaxx TV auf {{device}}:"
+        },
+        "device_select": {
+            "caption": "Abonniere unseren Newsletter, um informiert zu werden, wenn wir auf neuen Plattformen starten.",
+            "title": "Bitte wähle die Marke deines Smart TVs oder Streaming-Geräts aus."
+        }
+    },
+    "privacy": {
+        "settings": {
+            "text": "Um diesen Service weiter zu verbessern und an die sich ständig ändernden Bedürfnisse der Nutzer anzupassen, analysieren wir das anonyme Nutzerverhalten. Darüber hinaus setzt rlaxx TV gezielte Werbung ein, um Werbung besser auf die Nutzer zuzuschneiden und weniger irrelevante und sich wiederholende Werbung anzuzeigen. Auch diese Daten werden anonymisiert und sicher verschlüsselt.",
+            "title": "Datenschutzeinstellungen"
+        }
+    }
+}
