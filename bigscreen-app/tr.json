@@ -132,7 +132,7 @@
             "title": "Yardım ve destek",
             "subtitle": "Müşteri desteğimize ulaşın",
             "contact_button": "Müşteri desteğine başvurun",
-            "explanation_alt": "Rlaxx tv ile ilgili sorunlar yaşıyorsanız veya başka sorularınız veya endişeleriniz varsa, [x124x] rlaxxtv.com/support[x151x]. adresindeki müşteri desteğimize ulaşın.",
+            "explanation_alt": "Rlaxx tv ile ilgili sorunlar yaşıyorsanız veya başka sorularınız veya endişeleriniz varsa, <strong> rlaxxtv.com/support</strong>. adresindeki müşteri desteğimize ulaşın.",
             "explanation_3": "Daha iyi destek için lütfen mevcut uygulama sürümünüzü sağlayın: [x64x]",
             "explanation_2": "Veya aşağıdaki qr kodunu tarayarak bize ulaşın:"
         }
@@ -238,7 +238,7 @@
     "error": {
         "code_500": {
             "description": "Lütfen daha sonra tekrar deneyin.",
-            "title": "[X0x] üzgünüm, [x14x] rlaxx tv geçici olarak kullanılamıyor gibi görünüyor."
+            "title": "<strong> üzgünüm, </strong> rlaxx tv geçici olarak kullanılamıyor gibi görünüyor."
         },
         "code_408": {
             "description": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.",
@@ -262,7 +262,7 @@
         },
         "code_403": {
             "geoblocking": {
-                "title": "[X0x] üzgünüm, [x.] rlaxx tv henüz bölgenizde mevcut değil.",
+                "title": "<strong> üzgünüm, </strong>rlaxx tv henüz bölgenizde mevcut değil.",
                 "description": "Kullanılabilirlik ile ilgili en son haberler ve güncellemeler için lütfen [x13x] rlaxxtv.com [x32x] adresini ziyaret edin."
             }
         },
