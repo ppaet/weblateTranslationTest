@@ -1,356 +1,363 @@
 {
     "navigation": {
-        "on_demand": "",
-        "watchlist": "",
-        "program_guide": "",
-        "live": "",
-        "settings": "",
-        "stop_watching": "",
-        "reset_app": "",
-        "privacy_policy": ""
+        "on_demand": "Sur demande",
+        "watchlist": "Liste de surveillance",
+        "program_guide": "Guide du programme",
+        "live": "Live TV",
+        "settings": "Réglages",
+        "stop_watching": "Arrêtez de regarder",
+        "reset_app": "Réinitialiser App",
+        "privacy_policy": "Politique de confidentialité"
     },
     "buttons": {
-        "close_confirm": "",
-        "add_watchlist": "",
-        "watch_start": "",
-        "more_info": "",
-        "back": "",
-        "watch_live": "",
-        "play_now": "",
-        "close": "",
-        "start_watching_now": "",
-        "decline": "",
-        "accept": "",
-        "exit_app": "",
-        "continue": "",
-        "try_again": "",
-        "close_app": "",
-        "finish": "",
-        "next": "",
-        "show_new_channels": "",
-        "skip": "",
-        "nerver_show_messages_like_this": "",
-        "watch_now": "",
-        "back_to_top": "",
-        "browse_channels": "",
-        "more": "",
-        "next_episode": "",
-        "details": "",
-        "stop_watching": "",
-        "understood": "",
-        "stop_playing": "",
-        "manage_consent": "",
-        "download": "",
-        "start_watching_now_us_age_confirmation": "",
-        "yes": "",
-        "no": "",
-        "next_video": "",
-        "play_content": "",
-        "continue_content": "",
-        "play": "",
-        "nerver_show_again": "",
-        "dont_show_again_for_this_version": "",
-        "all_episodes": ""
+        "close_confirm": "Oui, fermez cette application",
+        "add_watchlist": "Ajouter à la Watchlist",
+        "watch_start": "Regarder depuis le début",
+        "more_info": "Plus d'info",
+        "back": "Retour",
+        "watch_live": "Regarder en direct",
+        "play_now": "Jouer maintenant",
+        "close": "Fermer",
+        "start_watching_now": "Commencez à regarder maintenant",
+        "decline": "Déclin",
+        "accept": "Accepter",
+        "exit_app": "Sortie App",
+        "continue": "Continuer",
+        "try_again": "Essayez à nouveau",
+        "close_app": "Fermez cette application",
+        "finish": "Finition",
+        "next": "Suivant",
+        "show_new_channels": "Afficher de nouveaux canaux",
+        "skip": "Skip",
+        "nerver_show_messages_like_this": "Ne jamais afficher des messages comme celui-ci",
+        "watch_now": "Regarder maintenant",
+        "back_to_top": "Retour vers le haut",
+        "browse_channels": "Parcourir les chaînes",
+        "more": "Plus",
+        "next_episode": "Prochain épisode",
+        "details": "Détails",
+        "stop_watching": "Arrêtez de regarder",
+        "understood": "Compris",
+        "stop_playing": "Arrêtez de jouer",
+        "manage_consent": "Gérer le consentement",
+        "download": "Télécharger",
+        "start_watching_now_us_age_confirmation": "Confirmez et commencez à regarder maintenant",
+        "yes": "Oui",
+        "no": "Non",
+        "next_video": "Suivant Vidéo",
+        "play_content": "Jouer {{content}}",
+        "continue_content": "Continuer {{content}}",
+        "play": "Jouer",
+        "nerver_show_again": "Ne jamais montrer à nouveau",
+        "dont_show_again_for_this_version": "Ne plus afficher pour cette version",
+        "all_episodes": "Tous les épisodes"
     },
     "on_demand": {
-        "most_recent": "",
-        "highlights": "",
-        "playlists": "",
-        "channels_row_title": "",
-        "more_by": "",
+        "most_recent": "Le plus récent",
+        "highlights": "Faits saillants",
+        "playlists": "Playlists",
+        "channels_row_title": "Canaux à la demande",
+        "more_by": "Plus par {{channel}}",
         "content_lane": {
-            "popular_programmes": "",
-            "new_on_rlaxx_tv": "",
-            "what_others_are_watching": "",
-            "on_demand_channels": "",
-            "continue_watching": ""
+            "popular_programmes": "Programmes populaires",
+            "new_on_rlaxx_tv": "Nouveau sur rlaxx TV",
+            "what_others_are_watching": "Ce que les autres regardent",
+            "on_demand_channels": "Canaux à la demande",
+            "continue_watching": "Continuer à regarder"
         },
-        "tv_shows": "",
-        "movies": "",
-        "about_content": "",
-        "all_videos": "",
-        "series": "",
-        "live_channel": ""
+        "tv_shows": "Émissions de télévision",
+        "movies": "Films",
+        "about_content": "À propos de {{content}}",
+        "all_videos": "Toutes les vidéos",
+        "series": "Série",
+        "live_channel": "Canal Live"
     },
     "settings": {
         "app_language": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez sélectionner votre langue préférée pour les boutons et les textes sur rlaxx TV. Cela n'affectera pas les canaux disponibles.",
+            "title": "Langue de l'application"
         },
         "about_app": {
-            "description": "",
-            "title": ""
+            "description": "©2023 rlaxx TV GmbH, Wall 55, 24103 Kiel, Allemagne. Tribunal de première instance: Amtsgericht Kiel. Numéro d'enregistrement: HRB 21455 KI. Numéro de TVA: DE329313048. Directeur Général: Ronny Lutzi. Contactez-nous au support@rlaxxtv.com",
+            "title": "À propos de cette app"
         },
         "language": {
-            "subtitle": "",
-            "explanation": "",
-            "title": ""
+            "subtitle": "Sélectionnez la langue de votre interface préférée pour rlaxx TV",
+            "explanation": "Veuillez sélectionner votre langue préférée pour les boutons et les textes sur rlaxx TV. Ce choix n'affecte pas la langue du contenu lui-même ou les canaux disponibles pour vous.",
+            "title": "Langue"
         },
         "notifications_and_announcements": {
-            "title": "",
-            "subtitle": "",
+            "title": "Notifications et annonces",
+            "subtitle": "Sélectionnez les notifications et les annonces à voir",
             "new_available_channels": {
-                "title": "",
-                "subtitle": ""
+                "title": "Nouveaux canaux disponibles",
+                "subtitle": "Recevez des annonces sur les nouvelles chaînes disponibles que vous n'avez pas encore vues lorsque vous ouvrez rlaxx TV."
             }
         },
         "consent_preferences": {
-            "title": "",
-            "subtitle": "",
-            "explanation": ""
+            "title": "Préférences de consentement",
+            "subtitle": "Gérer votre consentement pour l'analyse et le suivi",
+            "explanation": "Les données anonymisées sur les habitudes de visionnage de nos utilisateurs nous aident à offrir une meilleure expérience rlaxx TV. Pour les collecter, nous avons besoin de votre consentement-et vous pouvez gérer les consentements que vous nous donnez ou que vous donnez à nos partenaires à tout moment."
         },
         "privacy_policy": {
-            "title": "",
-            "subtitle": ""
+            "title": "Politique de confidentialité",
+            "subtitle": "Voir comment nous traitons vos données personnelles"
         },
         "imprint": {
-            "title": "",
-            "subtitle": ""
+            "title": "Empreinte",
+            "subtitle": "À propos de rlaxx TV"
         },
         "faq": {
-            "title": "",
-            "subtitle": "",
+            "title": "Questions fréquemment posées",
+            "subtitle": "Obtenez des réponses aux questions fréquemment posées",
             "item_1": {
-                "title": "",
-                "content": ""
+                "title": "Qu'est-ce que rlaxx TV?",
+                "content": "Rlaxx TV est un service de streaming financé par la publicité et donc gratuit, où le contenu est diffusé sur des chaînes thématiques linéaires de divers fournisseurs de contenu. Des fonctions telles que mettre en pause, redémarrer ou regarder plus tard ainsi que la possibilité d'accéder à une bibliothèque à la demande sont bien sûr incluses. Cela signifie que l'application combine l'expérience détendue de la télévision linéaire avec la flexibilité de la vidéo à la demande. C'est comme la télévision-mais différent!"
             },
             "item_2": {
-                "title": "",
-                "content": ""
+                "title": "Quel contenu puis-je m'attendre à voir sur rlaxx TV?",
+                "content": "Notre contenu est divisé en canaux avec différents genres, de sorte que vous pouvez simplement zapper sur le canal qui suscite votre intérêt. Nous proposons des canaux soigneusement sélectionnés ainsi que des offres de partenaires de contenu au sein de notre réseau mondial."
             },
             "item_3": {
-                "title": "",
-                "content": ""
+                "title": "Combien coûte rlaxx TV?",
+                "content": "Comme rlaxx TV est financé par des publicités, notre offre reste totalement gratuite pour les téléspectateurs. Vous n'avez même pas besoin de créer un compte. Il vous suffit de télécharger l'application sur votre téléviseur intelligent et vous pouvez commencer à regarder!\n\nContrairement à la télévision linéaire, nous ne montrons pas de longues pauses publicitaires, mais des clips publicitaires qui initient une courte pause. Nous diffusons beaucoup moins de publicités que les chaînes de télévision privées classiques."
             },
             "item_4": {
-                "title": "",
-                "content": ""
+                "title": "Où puis-je trouver rlaxx TV?",
+                "content": "Rlaxx TV est disponible en tant qu'application sur iPhone/iPad, la plupart des téléviseurs intelligents et dans votre navigateur. En outre, rlaxx TV sera bientôt disponible sur les téléphones et tablettes Android. Visi t rlaxxtv.com savoir où, quand et comment télécharger l'application rlaxx TV pour votre appareil préféré et commencer à diffuser gratuitement et sans inscription!"
             }
         },
         "help_and_support": {
-            "explanation": "",
-            "title": "",
-            "subtitle": "",
-            "contact_button": "",
-            "explanation_alt": "",
-            "explanation_3": "",
-            "explanation_2": ""
+            "explanation": "Si vous rencontrez des problèmes avec rlaxx TV ou avez d'autres questions ou préoccupations, contacter notre service clientèle en appuyant sur le bouton ci-dessous.",
+            "title": "Aide & Support",
+            "subtitle": "Atteindre notre support client",
+            "contact_button": "Contacter le support client",
+            "explanation_alt": "Si vous rencontrez des problèmes avec rlaxx TV ou si vous avez d'autres questions ou préoccupations, veuillez contacter notre service clientèle à l'adresse <strong>rlaxxtv.com/support</strong>.",
+            "explanation_3": "Pour un meilleur support, veuillez nous fournir votre version actuelle de l'application: {{app_version}}",
+            "explanation_2": "Ou contactez-nous en scannant le code QR suivant:"
         }
     },
     "epg": {
-        "other_channels": "",
-        "current_channel": "",
-        "currently_playing": ""
+        "other_channels": "Autres canaux",
+        "current_channel": "Canal actuel",
+        "currently_playing": "Joue actuellement"
     },
     "general": {
         "timing": {
-            "days_ago": "",
-            "in_days": "",
-            "yesterday": "",
-            "tomorrow": "",
-            "today": "",
-            "minutes": "",
-            "minutes_remaining": ""
+            "days_ago": "{{days}} jours il y a",
+            "in_days": "En jours {{days}}",
+            "yesterday": "Hier",
+            "tomorrow": "Demain",
+            "today": "Aujourd'hui",
+            "minutes": "{{minutes}} minutes",
+            "minutes_remaining": "{{minutes}} min restant"
         },
         "ads": {
-            "will_start": "",
-            "will_continue": "",
-            "advertisement": ""
+            "will_start": "Commencera après cette publicité",
+            "will_continue": "Continuera après cette publicité",
+            "advertisement": "Publicité"
         },
-        "on": "",
-        "off": "",
-        "season_short": "",
-        "episode_short": "",
-        "app_version": "",
-        "season": "",
-        "seasons": "",
-        "playlist": "",
-        "seasons_amount": "",
-        "season_amount": "",
-        "season_number": "",
-        "subtitles": "",
-        "age_rating": ""
+        "on": "Sur",
+        "off": "Off",
+        "season_short": "S",
+        "episode_short": "E",
+        "app_version": "Version App",
+        "season": "Saison",
+        "seasons": "Saisons",
+        "playlist": "Playlist",
+        "seasons_amount": "{{amount}} Saisons",
+        "season_amount": "{{amount}} Saison",
+        "season_number": "Saison {{number}}",
+        "subtitles": "Sous-titres",
+        "age_rating": "Cote d'âge"
     },
     "privacy": {
         "settings": {
-            "text": "",
-            "title": "",
-            "hint": "",
-            "opted-out": ""
+            "text": "Afin d'améliorer ce service et de l'adapter aux besoins en constante évolution des utilisateurs, nous analysons le comportement des utilisateurs anonymes. En outre, rlaxx TV utilise la publicité ciblée pour mieux adapter la publicité aux utilisateurs et pour afficher moins de publicité non pertinente et répétitive. Ces données sont également anonymisées et cryptées de manière sécurisée.",
+            "title": "Paramètres de confidentialité",
+            "hint": "La collecte des données nécessaires au fonctionnement technique de ce service est exclue de ce paramètre.",
+            "opted-out": "Comme vous l'avez demandé, rlaxx TV ne partagera aucune donnée de suivi avec d'autres applications et sites Web. Cependant, rlaxx TV devra toujours utiliser certains cookies pour s'assurer que son service peut fonctionner correctement. Les données utilisées à cette fin seront bien entendu anonymisées et ne pourront donc pas être retracées jusqu'à vous."
         },
         "anchors": {
-            "privacy_changes": "",
-            "general_notes": "",
-            "data_protection": "",
-            "definitions": ""
+            "privacy_changes": "Modifications apportées à cette déclaration de confidentialité des données",
+            "general_notes": "Notes générales et informations obligatoires",
+            "data_protection": "Protection des données en un coup d'œil",
+            "definitions": "Définitions"
         }
     },
     "modals": {
         "close-app": {
-            "title": ""
+            "title": "Voulez-vous fermer cette application?"
         },
         "reset-app": {
-            "confirm": "",
-            "cancel": "",
-            "description": "",
-            "title": ""
+            "confirm": "Oui, réinitialiser cette application",
+            "cancel": "Non, Retournez",
+            "description": "Tous vos paramètres personnels et les données stockées localement seront supprimés.",
+            "title": "Voulez-vous vraiment réinitialiser l'application?"
         },
         "device_rotate": {
             "description": {
-                "rotate_to_portrait": "",
-                "rotate_to_landscape": ""
+                "rotate_to_portrait": "Veuillez faire pivoter votre appareil vers l'orientation portrait pour quitter le mode plein écran.",
+                "rotate_to_landscape": "Veuillez faire pivoter votre appareil vers l'orientation paysage pour passer en mode plein écran."
             },
-            "title": ""
+            "title": "Faites pivoter votre appareil"
         },
         "age_rating": {
-            "description": ""
+            "description": "Désolé, en raison des réglementations locales en matière de protection de l'enfance, vous ne pouvez regarder ce contenu qu'après 23 h 00."
         }
     },
     "startup": {
         "finish": {
-            "description": "",
-            "title": "",
-            "description_us_age_confirmation": ""
+            "description": "Profitez sans avoir besoin de chercher. Sautez instantanément dans notre programme TV avec l'option de mettre en pause, avancer, rembobiner, redémarrer ou regarder plus tard. Et si vous le souhaitez, découvrez plus de contenu disponible dans la section à la demande.",
+            "title": "Tout est fait!",
+            "description_us_age_confirmation": "Profitez sans avoir besoin de chercher. Sautez instantanément dans notre programme TV avec l'option de mettre en pause, avancer, rembobiner, redémarrer ou regarder plus tard. Et si vous le souhaitez, découvrez plus de contenu disponible dans la section à la demande.\n\n<strong> En continuant, vous confirmez que vous avez au moins 13 ans.</strong>",
+            "description-no-on-demand": "Profitez d'une expérience de visionnement transparente sans avoir besoin de chercher. Plongez directement dans notre vaste catalogue de chaînes de télévision ou parcourez le contenu en direct actuel et à venir dans le guide des programmes."
         },
         "targeted-ads": {
-            "title": ""
+            "title": "Nous apprécions votre vie privée",
+            "description-secondary": "La collecte des données nécessaires au fonctionnement technique de ce service est exclue de ce paramètre.",
+            "description": "Afin d'améliorer ce service et de l'adapter aux besoins en constante évolution des utilisateurs, nous analysons le comportement des utilisateurs anonymes. En outre, rlaxx TV utilise la publicité ciblée pour mieux adapter la publicité aux utilisateurs et pour afficher moins de publicité non pertinente et répétitive. Ces données sont également anonymisées et cryptées de manière sécurisée."
         },
         "welcome": {
-            "description": "",
-            "title": ""
+            "description": "Nous avons conçu un service de divertissement incroyable avec des canaux triés sur le volet pour vous permettre de suivre facilement vos passions.",
+            "title": "Bienvenue sur rlaxx TV"
         },
         "apple-app-tracking": {
-            "description": "",
-            "title": ""
+            "description": "Nous aimerions améliorer votre expérience rlaxx TV avec une publicité plus pertinente. Pour cela, nous avons besoin de votre consentement à l'étape suivante. La quantité de publicités jouées ne sera pas affectée par ce paramètre.\n\nPas intéressé par ça? Ne vous inquiétez pas, vous pouvez également simplement vous y opposer à l'étape suivante.",
+            "title": "Publicité ciblée"
         },
         "loading-hint-2": {
-            "description": "",
-            "title": ""
+            "description": "Préparez-vous à sauter dans notre programme TV avec l'option de mettre en pause, avancer, rembobiner, redémarrer ou regarder plus tard. Et si vous le souhaitez, découvrez plus de contenu disponible dans la section à la demande.",
+            "title": "Presque là…"
         },
         "loading-hint-1": {
-            "description": "",
-            "title": ""
+            "description": "En un instant, vous pourrez profiter d'un catalogue diversifié de chaînes dans un large éventail de catégories telles que le sport, la musique, les films, le style de vie et l'aventure.",
+            "title": "Préparer les choses…"
         }
     },
     "error": {
         "code_500": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez réessayer ultérieurement.",
+            "title": "<strong> Désolé,</strong> rlaxx TV semble temporairement indisponible."
         },
         "code_408": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez vérifier votre connexion Internet et réessayer.",
+            "title": "<strong> Désolé,</strong> nous ne pouvons pas vous connecter à rlaxx TV."
         },
         "code_502": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez réessayer ultérieurement.",
+            "title": "<strong> Désolé,</strong> cette chaîne semble ne pas être disponible pour le moment."
         },
         "code_404": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez réessayer ultérieurement.",
+            "title": "<strong> Désolé,</strong> ce contenu n'est pas disponible actuellement."
         },
         "code_501": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez réessayer ultérieurement.",
+            "title": "<strong> Désolé,</strong> nous avons eu des problèmes pour jouer cette vidéo."
         },
         "code_400": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez vérifier votre connexion Internet ou réessayer plus tard.",
+            "title": "<strong> Désolé,</strong> nous avons des problèmes de chargement rlaxx TV."
         },
         "code_403": {
             "geoblocking": {
-                "title": "",
-                "description": ""
+                "title": "<strong> Désolé,</strong> rlaxx TV n'est pas encore disponible dans votre région.",
+                "description": "Veuillez visiter <strong>rlaxxtv.com</strong> pour les dernières nouvelles et mises à jour concernant la disponibilité."
             }
         },
-        "error_code": "",
+        "error_code": "Code d'erreur",
         "code_503": {
             "maintenance": {
-                "description": "",
-                "title": ""
+                "description": "Rlaxx TV fait actuellement l'objet d'une maintenance planifiée jusqu'à <strong>{{time_of_service_return}}</strong>.",
+                "title": "<strong> Désolé,</strong> nous serons bientôt de retour!"
             }
         },
-        "contact_support_hint": "",
+        "contact_support_hint": "Contactez-nous à <strong>rlaxxtv.com/support</strong> pour obtenir de l'aide supplémentaire",
         "code_512-AFTV": {
-            "description": "",
-            "title": ""
+            "description": "Les appareils suivants sont concernés: Fire TV Gen 1 (AFTB), Fire TV Gen 2 (AFTS), Fire TV Stick Gen 1 (AFTM) et Fire TV Stick Gen 2 (AFTT).",
+            "title": "<strong> Désolé,</strong> votre appareil Fire TV ne prend plus en charge rlaxx TV."
         },
         "code_513": {
-            "description": "",
-            "title": ""
+            "description": "Bien que cela fonctionne encore pour l'instant, certaines fonctionnalités peuvent ne pas être entièrement prises en charge. Nous vous recommandons de mettre à jour vers la dernière version de l'application. Faites-nous confiance, ça vaut le coup!",
+            "title": "<strong>Uh oh,</strong> semble que vous utilisez une ancienne version de notre application."
         },
         "code_512-GEN": {
-            "description": "",
-            "title": ""
+            "description": "Veuillez essayer de mettre à jour l'application vers la dernière version. Si vous ne parvenez pas à mettre à jour l'application, il est possible que votre appareil ne soit plus pris en charge. Si vous continuez avec cette version, vous pourriez rencontrer des problèmes avec l'application.",
+            "title": "<strong> Désolé,</strong> cette version de l'application n'est plus supportée."
         },
         "how_to_update": {
             "explanation": {
-                "ios": "",
-                "roku": "",
-                "tvos": "",
-                "android_tv": "",
-                "fire_tv": "",
-                "generic": ""
+                "ios": "Ouvrez l'application App Store sur votre appareil-> Rechercher rlaxx TV et ouvrez la page rlaxx TV App Store à partir des résultats de la recherche-> Appuyez sur le bouton \"Mettre à jour\"",
+                "roku": "Localisez la chaîne de télévision rlaxx sur votre écran d'accueil-> Assurez-vous que rlaxx TV est mis en surbrillance avec une bordure blanche, ou utilisez votre télécommande pour le mettre en surbrillance-> Appuyez sur le bouton étoile de votre télécommande, puis sélectionnez l'option \"Vérifier les mises à jour\"",
+                "tvos": "Ouvrez l'application App Store sur votre appareil-> Rechercher rlaxx TV et ouvrez la page rlaxx TV App Store à partir des résultats de la recherche-> Appuyez sur le bouton \"Mettre à jour\"",
+                "android_tv": "Ouvrez la recherche Android TV-> Rechercher rlaxx TV et ouvrez la page rlaxx TV App Store à partir des résultats de la recherche-> Appuyez sur le bouton \"Mettre à jour\"",
+                "fire_tv": "Ouvrez la recherche Fire TV-> Rechercher rlaxx TV et ouvrez la page rlaxx TV App Store à partir des résultats de la recherche-> Appuyez sur le bouton \"Mettre à jour\"",
+                "generic": "Si vous rencontrez des difficultés pour mettre à jour votre application sur votre appareil, essayez de rechercher en ligne les instructions de votre appareil ou contactez l'équipe d'assistance du fabricant."
             },
-            "title": ""
+            "title": "Comment mettre à jour:"
+        },
+        "code_512-DESP": {
+            "title": "<strong> Désolé,</strong> votre appareil {{device_name}} ne supporte plus rlaxx TV.",
+            "description": "Les appareils suivants sont concernés: {{devices_list}}"
         }
     },
     "live-player": {
         "hint": {
-            "press_ok_to_switch": ""
+            "press_ok_to_switch": "Appuyez sur le bouton “OK” de votre télécommande pour changer de chaîne"
         }
     },
     "player": {
         "hint": {
-            "next_up": "",
-            "next_up_countdown_finished": ""
+            "next_up": "Suivant Dans <strong>{{seconds}}</strong>",
+            "next_up_countdown_finished": "Next Up"
         }
     },
     "apple": {
         "app-tracking-transparency-prompt": {
-            "purpose": ""
+            "purpose": "Ces données sont utilisées pour vous fournir des publicités plus pertinentes. De plus, nous utilisons ces données pour analyser les modèles de comportement des utilisateurs ainsi que les performances de lecture vidéo afin de nous aider à améliorer continuellement rlaxx TV."
         }
     },
     "channel_promotion": {
-        "new_on_rlaxxtv": "",
-        "summary_text": ""
+        "new_on_rlaxxtv": "Nouveau sur rlaxx TV",
+        "summary_text": "Depuis votre dernière visite, nous avons ajouté <strong>{{missed}} de nouvelles chaînes </strong> à rlaxx TV-pourquoi ne pas essayer? Il pourrait y avoir quelque chose pour vous aussi!"
     },
     "beta_gate": {
         "portfolio_notice": {
-            "description": "",
-            "title": ""
+            "description": "Rlaxx TV n'est pas encore officiellement disponible dans votre région. Vous ne verrez donc qu'une sélection limitée <strong> de chaînes et de contenus.</strong>",
+            "title": "Veuillez noter"
         },
-        "wrong_code": "",
-        "website_hint": "",
-        "description": "",
-        "access_code": "",
-        "title": ""
+        "wrong_code": "Désolé, mauvais code, veuillez réessayer.",
+        "website_hint": "Visitez-nous sur <a href=\"https://rlaxxtv.com/\" target=\"_blank\">rlaxxtv.com</a> pour plus d'informations",
+        "description": "La version bêta de rlaxx TV pour le navigateur Web n'est pas encore disponible dans votre région. Veuillez entrer votre code d'accès ci-dessous pour avoir un aperçu de ce qui est à venir. <strong> Cet aperçu ne comprend qu'une sélection limitée de chaînes et de contenus et ne reflète pas le produit final.</strong>",
+        "access_code": "Votre code d'accès",
+        "title": "Rlaxx TV Web Beta"
     },
     "category": {
-        "featured": "",
-        "scifi": "",
-        "horror": "",
-        "slow_tv": "",
-        "news": "",
-        "comedy": "",
-        "classics": "",
-        "motorsports": "",
-        "sports": "",
-        "music": "",
-        "kids": "",
-        "food_and_drink": "",
-        "documentary": "",
-        "lifestyle_and_entertainment": "",
-        "movies_and_series": "",
-        "all": "",
-        "test": ""
+        "featured": "En vedette",
+        "scifi": "Sci-fi",
+        "horror": "Horreur",
+        "slow_tv": "Télévision lente",
+        "news": "Nouvelles",
+        "comedy": "Comédie",
+        "classics": "Classiques",
+        "motorsports": "Motorsports",
+        "sports": "Sports",
+        "music": "Musique",
+        "kids": "Enfants",
+        "food_and_drink": "Nourriture & Boisson",
+        "documentary": "Documentaire",
+        "lifestyle_and_entertainment": "Mode de vie",
+        "movies_and_series": "Films & séries",
+        "all": "Tous les canaux",
+        "test": "Test"
     },
     "content": {
         "description": {
-            "empty": ""
+            "empty": "Il n'y a pas d'informations supplémentaires pour ce contenu"
         },
         "title": {
-            "empty": ""
+            "empty": "Programmation en direct"
         }
     }
 }
