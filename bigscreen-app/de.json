@@ -210,10 +210,13 @@
         "finish": {
             "description": "Mehr genießen, weniger suchen. Schalte direkt in unser Fernsehprogramm mit Möglichkeiten wie Pause, Vor- und zurückspulen, Neustart oder später ansehen. Und wenn du möchtest, kannst du weitere Inhalte im Video-on-Demand Katalog entdecken.",
             "title": "Fertig!",
-            "description_us_age_confirmation": "Mehr genießen, weniger suchen. Schalte direkt in unser Fernsehprogramm mit Möglichkeiten wie Pause, Vor- und zurückspulen, Neustart oder später ansehen. Und wenn du möchtest, kannst du weitere Inhalte im Video-on-Demand Katalog entdecken.\n\n<strong>Wenn du fortfährst, bestätigst du, dass du mindestens 13 Jahre alt bist.</strong>"
+            "description_us_age_confirmation": "Mehr genießen, weniger suchen. Schalte direkt in unser Fernsehprogramm mit Möglichkeiten wie Pause, Vor- und zurückspulen, Neustart oder später ansehen. Und wenn du möchtest, kannst du weitere Inhalte im Video-on-Demand Katalog entdecken.\n\n<strong>Wenn du fortfährst, bestätigst du, dass du mindestens 13 Jahre alt bist.</strong>",
+            "description-no-on-demand": "Genießen Sie ein nahtloses Seher lebnis ohne die Notwendigkeit zu suchen. Tauchen Sie direkt in unseren umfangreichen Katalog für TV-Kanäle ein oder stöbern Sie im Programm führer durch aktuelle und kommende Live-Inhalte."
         },
         "targeted-ads": {
-            "title": "Wir achten deine Privatsphäre"
+            "title": "Wir achten deine Privatsphäre",
+            "description-secondary": "Die Erfassung der Daten, die erforderlich sind, damit dieser Dienst auf technischer Ebene funktioniert, ist von dieser Einstellung aus geschlossen.",
+            "description": "Um diesen Service weiter zu verbessern und an die sich ständig ändernden Bedürfnisse der Nutzer anzupassen, analysieren wir das anonyme Nutzer verhalten. Darüber hinaus verwendet rlaxx TV gezielte Werbung, um Werbung besser auf die Nutzer zuzuschneiden und weniger irrelevante und sich wiederholende Werbung anzuzeigen. Diese Daten werden auch anonym isiert und sicher verschlüsselt."
         },
         "welcome": {
             "description": "Wir haben einen fantastischen Unterhaltungsdienst mit handverlesenen Kanälen geschaffen, damit du schauen kannst, was dich wirklich interessiert!",
@@ -293,6 +296,10 @@
                 "generic": "Wenn du Probleme hast, die App auf deinem Gerät zu aktualisieren, suche bitte online nach Hilfestellung oder kontaktiere den Kundensupport des Herstellers von deinem Gerät."
             },
             "title": "Wie du updaten kannst:"
+        },
+        "code_512-DESP": {
+            "title": "<strong>Sorry,</strong> Ihr {{device_name}} Gerät unterstützt rlaxx TV nicht mehr.",
+            "description": "Folgende Geräte sind betroffen: {{devices_list}}"
         }
     },
     "live-player": {
